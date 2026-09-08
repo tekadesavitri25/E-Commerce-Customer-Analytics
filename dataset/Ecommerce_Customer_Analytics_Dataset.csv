@@ -1,0 +1,1013 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Gender,Age,Region,City,Category,Product,Quantity,Unit_Price,Discount,Sales,Profit,Customer_Rating,Payment_Method
+ORD10001,2025-03-25,CUST1138,Customer_133,Female,56,West,Jaipur,Fashion,Shoes,1,1182.17,0.25,886.63,291.92,3.5,UPI
+ORD10002,2025-03-29,CUST1102,Customer_86,Male,44,South,Chennai,Sports,Dumbbells,3,846.36,0.1,2285.17,397.59,4.1,Debit Card
+ORD10003,2025-09-20,CUST1177,Customer_295,Male,21,South,Bengaluru,Beauty,Shampoo,3,4826.53,0.15,12307.65,3137.51,4.1,Cash on Delivery
+ORD10004,2024-08-08,CUST1169,Customer_279,Male,41,South,Mumbai,Home & Kitchen,Vacuum Cleaner,5,763.21,0.25,2862.04,1210.28,3.1,UPI
+ORD10005,2024-06-02,CUST1286,Customer_180,Female,40,East,Bhubaneswar,Electronics,Smartwatch,1,2522.83,0.05,2396.69,396.99,4.4,Credit Card
+ORD10006,2025-10-26,CUST1261,Customer_4,Female,36,South,Mumbai,Electronics,Headphones,5,3031.43,0.15,12883.58,4798.27,2.6,UPI
+ORD10007,2024-01-12,CUST1223,Customer_126,Male,59,West,Ahmedabad,Electronics,Smartwatch,4,2821.53,0.1,10157.51,3543.31,4.6,Cash on Delivery
+ORD10008,2024-05-12,CUST1199,Customer_175,Male,20,North,Lucknow,Sports,Football,5,658.65,0.2,2634.6,867.63,2.0,Debit Card
+ORD10009,2024-10-30,CUST1211,Customer_251,Male,44,East,Kolkata,Home & Kitchen,Mixer,2,520.88,0.0,1041.76,452.78,2.1,Credit Card
+ORD10010,2024-10-19,CUST1287,Customer_21,Male,20,South,Mumbai,Home & Kitchen,Mixer,5,751.05,0.2,3004.2,904.4,1.2,Debit Card
+ORD10011,2024-10-26,CUST1180,Customer_105,Female,45,East,Kolkata,Electronics,Headphones,3,3031.54,0.05,8639.89,3568.31,,Debit Card
+ORD10012,2024-02-12,CUST1250,Customer_66,Male,34,East,Guwahati,Sports,Yoga Mat,4,2835.64,0.05,10775.43,3552.76,2.7,UPI
+ORD10013,2024-12-08,CUST1231,Customer_263,Female,48,South,Bengaluru,Beauty,Shampoo,2,1360.27,0.15,2312.46,797.31,1.9,UPI
+ORD10014,2024-11-21,CUST1023,Customer_49,Male,27,East,Guwahati,Electronics,Smartwatch,5,3279.43,0.05,15577.29,3398.15,1.9,Cash on Delivery
+ORD10015,2025-05-12,CUST1048,Customer_16,Female,39,North,Delhi,Electronics,Laptop,4,4145.32,0.1,14923.15,3119.67,4.6,Cash on Delivery
+ORD10016,2024-12-29,CUST1109,Customer_145,Male,47,West,Ahmedabad,Electronics,Smartwatch,4,447.5,0.1,1611.0,650.81,4.3,Debit Card
+ORD10017,2025-03-02,CUST1296,Customer_250,Female,38,West,Jaipur,Fashion,T-Shirt,2,2616.12,0.15,4447.4,1512.27,3.2,Cash on Delivery
+ORD10018,2024-01-21,CUST1006,Customer_75,Female,53,North,Delhi,Fashion,Jeans,5,3524.22,0.05,16740.04,5658.03,3.5,Debit Card
+ORD10019,2025-02-10,CUST1038,Customer_290,Female,40,East,Kolkata,Fashion,T-Shirt,4,1448.48,0.0,5793.92,2344.09,2.9,Credit Card
+ORD10020,2025-09-10,CUST1169,Customer_282,Male,55,South,Chennai,Fashion,Jacket,4,1711.91,0.05,6505.26,1369.12,2.6,Debit Card
+ORD10021,2024-12-01,CUST1283,Customer_66,Female,29,East,Guwahati,Home & Kitchen,Bedsheet,1,3164.78,0.1,2848.3,677.42,4.7,Cash on Delivery
+ORD10022,2024-04-26,CUST1203,Customer_125,Male,42,North,Lucknow,Electronics,Headphones,4,4515.19,0.0,18060.76,7095.81,1.5,Cash on Delivery
+ORD10023,2024-05-03,CUST1273,Customer_87,Female,37,East,Kolkata,Fashion,Jeans,1,4097.14,0.05,3892.28,1323.31,2.7,Debit Card
+ORD10024,2025-02-02,CUST1244,Customer_41,Female,59,West,Jaipur,Fashion,T-Shirt,5,3019.87,0.05,14344.38,5999.66,2.4,UPI
+ORD10025,2025-12-15,CUST1047,Customer_186,Male,24,East,Kolkata,Fashion,T-Shirt,5,3718.55,0.0,18592.75,4862.71,3.0,Debit Card
+ORD10026,2024-02-20,CUST1249,Customer_266,Female,46,North,Lucknow,Beauty,Shampoo,5,1982.91,0.1,8923.1,3690.49,2.8,Debit Card
+ORD10027,2024-11-19,CUST1079,Customer_271,Female,46,West,Pune,Electronics,Headphones,3,3294.59,0.2,7907.02,1219.42,3.1,UPI
+ORD10028,2024-05-20,CUST1110,Customer_42,Male,30,East,Kolkata,Fashion,Jacket,5,2464.36,0.0,12321.8,2658.99,1.6,Credit Card
+ORD10029,2025-04-14,CUST1013,Customer_93,Female,20,East,Bhubaneswar,Home & Kitchen,Cookware Set,4,1152.2,0.1,4147.92,1380.96,3.1,UPI
+ORD10030,2024-11-29,CUST1090,Customer_185,Female,19,West,Jaipur,Electronics,Smartwatch,2,3583.26,0.15,6091.54,1683.89,2.0,Cash on Delivery
+ORD10031,2025-01-07,CUST1280,Customer_215,Female,33,South,Chennai,Home & Kitchen,Bedsheet,1,2893.21,0.1,2603.89,459.84,1.7,UPI
+ORD10032,2025-07-17,CUST1221,Customer_17,Female,47,West,Pune,Electronics,Smartphone,3,1953.45,0.15,4981.3,1413.54,1.3,Cash on Delivery
+ORD10033,2025-05-08,CUST1073,Customer_265,Male,55,South,Mumbai,Electronics,Headphones,5,4578.86,0.1,20604.87,8193.54,4.1,Cash on Delivery
+ORD10034,2025-06-22,CUST1234,Customer_114,Female,23,North,Delhi,Sports,Cricket Bat,5,349.44,0.1,1572.48,528.96,2.7,Debit Card
+ORD10035,2025-10-30,CUST1260,Customer_292,Female,24,North,Chandigarh,Sports,Yoga Mat,2,1749.92,0.0,3499.84,689.67,3.5,Debit Card
+ORD10036,2024-06-04,CUST1113,Customer_292,Female,22,West,Ahmedabad,Beauty,Shampoo,2,520.19,0.15,884.32,227.04,3.9,Credit Card
+ORD10037,2024-10-17,CUST1046,Customer_48,Female,24,West,Pune,Fashion,Jeans,3,3891.0,0.15,9922.05,2527.97,3.7,Cash on Delivery
+ORD10038,2025-10-09,CUST1274,Customer_97,Female,51,North,Lucknow,Electronics,Headphones,1,3585.01,0.0,3585.01,680.99,2.9,Debit Card
+ORD10039,2024-05-23,CUST1043,Customer_95,Female,49,South,Chennai,Home & Kitchen,Cookware Set,5,1823.92,0.05,8663.62,1575.12,2.6,Cash on Delivery
+ORD10040,2024-04-15,CUST1208,Customer_74,Female,30,North,Chandigarh,Fashion,Shoes,3,3459.4,0.25,7783.65,1354.84,2.5,Credit Card
+ORD10041,2025-02-23,CUST1103,Customer_68,Female,47,West,Ahmedabad,Electronics,Smartphone,4,2130.7,0.1,7670.52,3233.47,3.6,Cash on Delivery
+ORD10042,2025-10-31,CUST1124,Customer_246,Male,42,North,Delhi,Fashion,Shoes,4,3842.21,0.1,13831.96,3966.48,3.0,Credit Card
+ORD10043,2025-10-19,CUST1010,Customer_77,Male,38,West,Jaipur,Electronics,Smartphone,3,2407.37,0.2,5777.69,1316.43,4.4,Credit Card
+ORD10044,2024-01-02,CUST1187,Customer_208,Male,38,West,Pune,Sports,Football,5,2208.33,0.15,9385.4,2092.21,4.5,Credit Card
+ORD10045,2025-08-11,CUST1031,Customer_254,Male,45,North,Chandigarh,Electronics,Smartwatch,3,4689.97,0.1,12662.92,3393.47,1.7,Debit Card
+ORD10046,2025-10-05,CUST1156,Customer_221,Female,37,South,Chennai,Home & Kitchen,Vacuum Cleaner,5,1441.68,0.15,6127.14,2450.63,1.5,UPI
+ORD10047,2024-03-30,CUST1060,Customer_262,Female,51,East,Guwahati,Fashion,Jeans,2,822.12,0.2,1315.39,277.25,3.5,UPI
+ORD10048,2024-12-10,CUST1249,Customer_259,Male,22,North,Chandigarh,Fashion,Shoes,3,3026.58,0.1,8171.77,1911.92,2.2,Debit Card
+ORD10049,2024-12-15,CUST1270,Customer_74,Male,35,East,Kolkata,Home & Kitchen,Bedsheet,5,4854.28,0.1,21844.26,9265.45,1.1,Cash on Delivery
+ORD10050,2025-04-03,CUST1217,Customer_125,Male,56,North,Delhi,Electronics,Smartphone,3,2044.74,0.05,5827.51,1811.52,4.6,Debit Card
+ORD10051,2024-09-19,CUST1002,Customer_188,Female,60,East,Guwahati,Sports,Cricket Bat,3,544.67,0.25,1225.51,487.52,1.9,Cash on Delivery
+ORD10052,2024-12-16,CUST1024,Customer_254,Female,28,South,Bengaluru,Beauty,Perfume,5,1861.7,0.15,7912.22,2759.44,4.7,Credit Card
+ORD10053,2024-04-17,CUST1206,Customer_235,Male,34,South,Chennai,Sports,Cricket Bat,5,2653.18,0.0,13265.9,5897.7,3.9,Debit Card
+ORD10054,2025-08-08,CUST1199,Customer_250,Male,39,North,Chandigarh,Sports,Dumbbells,1,1019.13,0.2,815.3,268.97,4.1,UPI
+ORD10055,2024-02-08,CUST1114,Customer_72,Male,54,West,Pune,Home & Kitchen,Bedsheet,3,3375.99,0.1,9115.17,2598.16,1.8,Cash on Delivery
+ORD10056,2024-06-07,CUST1280,Customer_235,Male,37,East,Bhubaneswar,Sports,Football,4,4989.31,0.0,19957.24,5271.21,1.9,Debit Card
+ORD10057,2025-08-05,CUST1155,Customer_156,Male,23,West,Pune,Electronics,Laptop,3,2395.76,0.1,6468.55,1623.3,3.1,Debit Card
+ORD10058,2024-11-07,CUST1165,Customer_115,Female,51,West,Ahmedabad,Electronics,Headphones,3,1934.96,0.1,5224.39,1040.24,1.7,Cash on Delivery
+ORD10059,2024-08-28,CUST1222,Customer_228,Male,31,West,Jaipur,Electronics,Laptop,5,2153.34,0.2,8613.36,3319.25,2.2,Credit Card
+ORD10060,2025-03-20,CUST1091,Customer_245,Female,40,South,Mumbai,Fashion,Shoes,3,796.94,0.05,2271.28,939.98,2.3,Credit Card
+ORD10061,2024-10-24,CUST1167,Customer_14,Male,37,North,Lucknow,Fashion,T-Shirt,3,4445.55,0.15,11336.15,2205.32,1.6,Credit Card
+ORD10062,2024-02-05,CUST1207,Customer_16,Male,30,North,Lucknow,Electronics,Laptop,4,2220.42,0.1,7993.51,3221.51,1.8,Credit Card
+ORD10063,2024-03-24,CUST1282,Customer_42,Female,58,South,Mumbai,Beauty,Perfume,5,2089.55,0.0,10447.75,1646.27,4.2,Cash on Delivery
+ORD10064,2025-03-27,CUST1065,Customer_110,Male,49,South,Mumbai,Fashion,Jacket,3,3383.53,0.25,7612.94,1501.57,1.7,UPI
+ORD10065,2025-01-19,CUST1004,Customer_278,Female,43,North,Lucknow,Fashion,Shoes,2,2349.66,0.1,4229.39,1267.7,1.1,Debit Card
+ORD10066,2024-06-20,CUST1157,Customer_19,Female,31,West,Jaipur,Home & Kitchen,Vacuum Cleaner,1,3329.11,0.05,3162.65,492.02,3.5,Debit Card
+ORD10067,2025-01-10,CUST1249,Customer_66,Male,53,East,Guwahati,Electronics,Smartwatch,4,541.87,0.1,1950.73,820.84,4.9,Credit Card
+ORD10068,2025-11-15,CUST1257,Customer_167,Male,25,East,Guwahati,Beauty,Face Cream,3,4115.19,0.2,9876.46,3546.44,2.3,Cash on Delivery
+ORD10069,2024-12-27,CUST1235,Customer_73,Female,57,East,Kolkata,Electronics,Laptop,2,4717.39,0.05,8963.04,2317.24,1.5,UPI
+ORD10070,2025-07-12,CUST1074,Customer_112,Female,39,West,Pune,Sports,Football,3,3331.64,0.0,9994.92,3448.23,3.3,UPI
+ORD10071,2024-05-20,CUST1187,Customer_274,Male,39,North,Lucknow,Beauty,Face Cream,3,4784.19,0.0,14352.57,2461.3,4.6,Debit Card
+ORD10072,2024-04-27,CUST1062,Customer_85,Female,33,South,Bengaluru,Electronics,Headphones,5,969.3,0.05,4604.18,1981.23,4.1,Credit Card
+ORD10073,2024-10-03,CUST1164,Customer_139,Male,44,North,Chandigarh,Electronics,Smartwatch,5,2517.73,0.15,10700.35,3051.49,3.5,Debit Card
+ORD10074,2025-12-26,CUST1056,Customer_39,Female,27,West,Pune,Beauty,Shampoo,5,3108.58,0.1,13988.61,3815.26,2.3,Debit Card
+ORD10075,2024-08-07,CUST1111,Customer_105,Male,42,South,Chennai,Home & Kitchen,Bedsheet,2,3013.25,0.05,5725.18,1455.24,3.2,UPI
+ORD10076,2024-01-26,CUST1218,Customer_281,Female,48,West,Jaipur,Beauty,Perfume,3,2156.94,0.0,6470.82,2415.56,1.4,Cash on Delivery
+ORD10077,2025-06-04,CUST1240,Customer_123,Female,38,East,Kolkata,Beauty,Makeup Kit,1,1855.9,0.05,1763.1,600.56,3.7,UPI
+ORD10078,2024-01-10,CUST1021,Customer_218,Male,44,East,Bhubaneswar,Electronics,Headphones,4,852.41,0.2,2727.71,537.07,3.9,Debit Card
+ORD10079,2025-01-12,CUST1141,Customer_61,Female,34,West,Ahmedabad,Fashion,Shoes,5,2110.78,0.05,10026.21,3925.43,4.9,Credit Card
+ORD10080,2025-09-24,CUST1265,Customer_100,Female,50,South,Bengaluru,Electronics,Smartwatch,5,1022.64,0.25,3834.9,774.42,2.0,Credit Card
+ORD10081,2025-09-28,CUST1139,Customer_204,Female,48,South,Mumbai,Sports,Yoga Mat,3,3738.24,0.1,10093.25,2838.26,1.1,Cash on Delivery
+ORD10082,2025-11-12,CUST1070,Customer_258,Female,59,North,Chandigarh,Home & Kitchen,Vacuum Cleaner,3,1241.95,0.0,3725.85,824.69,3.2,Cash on Delivery
+ORD10083,2025-08-06,CUST1118,Customer_5,Female,43,East,Kolkata,Fashion,T-Shirt,2,528.19,0.2,845.1,199.37,3.8,Cash on Delivery
+ORD10084,2024-05-31,CUST1198,Customer_197,Female,38,North,Delhi,Electronics,Laptop,2,2873.74,0.1,5172.73,2005.71,4.2,Debit Card
+ORD10085,2025-12-20,CUST1205,Customer_180,Female,53,North,Lucknow,Fashion,T-Shirt,5,3077.34,0.15,13078.7,3653.62,1.8,Debit Card
+ORD10086,2024-02-18,CUST1214,Customer_133,Male,18,West,Ahmedabad,Fashion,T-Shirt,3,4391.59,0.25,9881.08,1874.27,2.0,Cash on Delivery
+ORD10087,2024-06-02,CUST1056,Customer_253,Female,21,West,Pune,Beauty,Shampoo,1,2990.66,0.0,2990.66,958.1,3.1,Credit Card
+ORD10088,2024-10-19,CUST1287,Customer_265,Female,21,North,Chandigarh,Home & Kitchen,Mixer,4,1891.03,0.0,7564.12,1210.43,2.3,Credit Card
+ORD10089,2025-08-02,CUST1293,Customer_93,Male,43,East,Bhubaneswar,Sports,Dumbbells,3,4064.31,0.15,10363.99,3257.77,4.4,Credit Card
+ORD10090,2024-02-19,CUST1175,Customer_150,Female,21,West,Jaipur,Fashion,T-Shirt,3,2816.32,0.05,8026.51,3268.11,2.9,Debit Card
+ORD10091,2025-10-25,CUST1128,Customer_138,Female,26,North,Chandigarh,Electronics,Laptop,2,626.58,0.0,1253.16,417.51,,UPI
+ORD10092,2025-06-14,CUST1292,Customer_208,Male,47,North,Lucknow,Beauty,Makeup Kit,4,2937.79,0.0,11751.16,1932.94,3.3,Credit Card
+ORD10093,2025-09-03,CUST1288,Customer_125,Female,21,North,Delhi,Beauty,Shampoo,5,4563.09,0.0,22815.45,8078.58,4.1,Credit Card
+ORD10094,2024-02-29,CUST1226,Customer_234,Female,22,North,Chandigarh,Home & Kitchen,Cookware Set,3,2132.48,0.15,5437.82,1030.85,2.3,Credit Card
+ORD10095,2024-06-15,CUST1064,Customer_61,Male,40,North,Delhi,Beauty,Perfume,5,1657.55,0.0,8287.75,1538.41,4.3,Cash on Delivery
+ORD10096,2024-07-20,CUST1048,Customer_266,Male,33,North,Chandigarh,Fashion,Shoes,3,931.48,0.1,2515.0,867.53,2.1,Debit Card
+ORD10097,2024-05-25,CUST1202,Customer_134,Female,39,West,Pune,Fashion,Jeans,5,969.37,0.1,4362.17,1854.02,3.2,Cash on Delivery
+ORD10098,2025-11-06,CUST1060,Customer_113,Female,54,East,Bhubaneswar,Fashion,Jeans,4,2305.66,0.1,8300.38,1930.94,1.9,Cash on Delivery
+ORD10099,2025-03-14,CUST1257,Customer_191,Male,25,North,Chandigarh,Electronics,Laptop,2,3079.48,0.0,6158.96,2195.95,2.9,
+ORD10100,2024-08-29,CUST1065,Customer_187,Female,50,South,Bengaluru,Electronics,Headphones,4,632.92,0.15,2151.93,462.93,2.3,Cash on Delivery
+ORD10101,2025-08-03,CUST1239,Customer_89,Male,55,West,Ahmedabad,Electronics,Headphones,1,4712.95,0.0,4712.95,1494.96,2.1,UPI
+ORD10102,2025-11-17,CUST1289,Customer_187,Male,60,West,Ahmedabad,Home & Kitchen,Mixer,2,3836.88,0.15,6522.7,1985.64,4.9,Cash on Delivery
+ORD10103,2025-07-14,CUST1038,Customer_132,Male,33,North,Chandigarh,Fashion,T-Shirt,4,3036.46,0.2,9716.67,2104.89,1.6,Credit Card
+ORD10104,2025-04-27,CUST1025,Customer_123,Female,22,West,Ahmedabad,Fashion,Jeans,1,4185.08,0.1,3766.57,1262.9,4.1,Debit Card
+ORD10105,2024-04-17,CUST1059,Customer_48,Male,33,North,Chandigarh,Sports,Dumbbells,3,630.89,0.1,1703.4,540.08,4.9,Cash on Delivery
+ORD10106,2024-08-13,CUST1297,Customer_288,Male,24,East,Bhubaneswar,Electronics,Smartwatch,3,2514.98,0.1,6790.45,2289.35,1.1,UPI
+ORD10107,2025-11-03,CUST1158,Customer_179,Male,18,East,Kolkata,Fashion,Shoes,5,3242.94,0.05,15403.96,5234.23,3.8,Debit Card
+ORD10108,2025-09-22,CUST1057,Customer_180,Female,26,West,Jaipur,Beauty,Perfume,2,4186.1,0.2,6697.76,1957.19,2.0,UPI
+ORD10109,2025-10-22,CUST1048,Customer_99,Female,35,West,Ahmedabad,Electronics,Headphones,3,3971.48,0.2,9531.55,1976.46,1.2,Credit Card
+ORD10110,2025-10-23,CUST1056,Customer_34,Female,20,South,Chennai,Electronics,Laptop,2,1566.08,0.05,2975.55,1016.06,2.6,Cash on Delivery
+ORD10111,2025-03-07,CUST1065,Customer_70,Male,41,West,Ahmedabad,Fashion,Jacket,3,4719.18,0.1,12741.79,3729.82,4.7,Debit Card
+ORD10112,2025-10-16,CUST1268,Customer_171,Female,45,South,Bengaluru,Electronics,Smartphone,5,840.64,0.2,3362.56,836.54,1.0,Credit Card
+ORD10113,2025-02-22,CUST1069,Customer_272,Female,27,East,Kolkata,Sports,Cricket Bat,4,4406.88,0.25,13220.64,4880.64,3.4,Cash on Delivery
+ORD10114,2025-03-30,CUST1216,Customer_59,Male,26,East,Kolkata,Beauty,Face Cream,5,4861.97,0.1,21878.86,8023.92,3.0,Cash on Delivery
+ORD10115,2024-06-08,CUST1089,Customer_181,Male,30,North,Lucknow,Home & Kitchen,Mixer,1,1091.48,0.1,982.33,166.97,4.5,UPI
+ORD10116,2025-06-06,CUST1281,Customer_19,Female,52,East,Kolkata,Sports,Cricket Bat,3,3679.81,0.05,10487.46,2442.95,1.3,UPI
+ORD10117,2025-10-11,CUST1257,Customer_226,Female,40,South,Mumbai,Beauty,Face Cream,1,441.36,0.25,331.02,91.64,3.7,Credit Card
+ORD10118,2025-08-12,CUST1160,Customer_95,Male,34,West,Jaipur,Electronics,Smartwatch,1,2175.76,0.0,2175.76,556.31,3.7,UPI
+ORD10119,2024-03-17,CUST1234,Customer_297,Female,24,North,Delhi,Sports,Yoga Mat,2,2702.35,0.1,4864.23,2146.15,3.7,Credit Card
+ORD10120,2025-05-23,CUST1131,Customer_81,Male,33,South,Bengaluru,Home & Kitchen,Vacuum Cleaner,3,3008.06,0.05,8572.97,2268.14,4.8,Credit Card
+ORD10121,2025-03-16,CUST1049,Customer_175,Male,57,West,Jaipur,Beauty,Makeup Kit,1,4695.7,0.05,4460.92,1325.55,4.3,Credit Card
+ORD10122,2024-09-10,CUST1147,Customer_222,Female,53,North,Lucknow,Sports,Dumbbells,4,3443.19,0.1,12395.48,3548.52,1.2,UPI
+ORD10123,2024-11-15,CUST1002,Customer_103,Female,37,East,Bhubaneswar,Fashion,Shoes,1,2536.07,0.25,1902.05,650.83,2.9,Debit Card
+ORD10124,2024-09-19,CUST1145,Customer_54,Female,41,South,Mumbai,Electronics,Smartphone,4,4095.96,0.0,16383.84,6972.27,2.6,Credit Card
+ORD10125,2025-08-19,CUST1061,Customer_183,Female,22,West,Jaipur,Electronics,Laptop,2,4765.03,0.1,8577.05,3362.19,2.2,Debit Card
+ORD10126,2025-10-19,CUST1273,Customer_68,Male,23,North,Lucknow,Fashion,Jeans,1,354.81,0.0,354.81,58.46,,Cash on Delivery
+ORD10127,2025-07-07,CUST1049,Customer_28,Female,45,North,Chandigarh,Beauty,Face Cream,5,4916.98,0.0,24584.9,8048.85,2.5,UPI
+ORD10128,2025-01-08,CUST1131,Customer_274,Female,22,East,Bhubaneswar,Sports,Football,2,659.13,0.1,1186.43,367.79,2.7,UPI
+ORD10129,2025-09-28,CUST1043,Customer_282,Female,56,West,Pune,Electronics,Headphones,4,4118.34,0.1,14826.02,6437.27,4.9,Debit Card
+ORD10130,2024-06-15,CUST1057,Customer_119,Male,55,East,Guwahati,Fashion,Jacket,2,1581.59,0.05,3005.02,1318.39,1.4,Cash on Delivery
+ORD10131,2025-04-03,CUST1050,Customer_134,Female,19,East,Kolkata,Fashion,T-Shirt,1,877.85,0.05,833.96,195.85,4.7,Cash on Delivery
+ORD10132,2024-10-06,CUST1178,Customer_129,Female,60,West,Pune,Electronics,Smartphone,3,2339.31,0.0,7017.93,2025.18,2.9,Credit Card
+ORD10133,2025-11-30,CUST1293,Customer_8,Male,56,West,Ahmedabad,Electronics,Laptop,3,3308.79,0.05,9430.05,2804.39,3.5,UPI
+ORD10134,2024-10-28,CUST1046,Customer_51,Male,38,West,Jaipur,Fashion,T-Shirt,4,2059.52,0.25,6178.56,2329.7,4.3,Cash on Delivery
+ORD10135,2025-06-14,CUST1170,Customer_281,Male,57,South,Chennai,Sports,Football,4,509.19,0.2,1629.41,369.18,2.4,Cash on Delivery
+ORD10136,2025-08-02,CUST1271,Customer_175,Male,54,West,Jaipur,Fashion,T-Shirt,3,3097.44,0.05,8827.7,3526.92,2.7,Credit Card
+ORD10137,2024-08-05,CUST1139,Customer_183,Male,35,North,Chandigarh,Fashion,Jeans,4,4536.42,0.1,16331.11,6418.45,2.6,Credit Card
+ORD10138,2024-04-11,CUST1247,Customer_192,Female,29,East,Bhubaneswar,Home & Kitchen,Vacuum Cleaner,2,2070.27,0.2,3312.43,1032.77,2.5,Debit Card
+ORD10139,2025-07-07,CUST1148,Customer_249,Male,34,South,Bengaluru,Fashion,Jeans,5,1277.58,0.0,6387.9,2325.94,4.7,UPI
+ORD10140,2024-10-14,CUST1230,Customer_235,Male,54,West,Ahmedabad,Sports,Cricket Bat,5,2352.24,0.15,9997.02,3756.49,4.3,Cash on Delivery
+ORD10141,2024-06-15,CUST1280,Customer_83,Male,55,South,Bengaluru,Sports,Dumbbells,2,479.72,0.2,767.55,196.82,1.4,
+ORD10142,2025-09-12,CUST1125,Customer_93,Male,32,West,Jaipur,Electronics,Laptop,5,4147.32,0.0,20736.6,5281.79,1.4,UPI
+ORD10143,2024-02-05,CUST1192,Customer_268,Male,24,South,Mumbai,Fashion,Jeans,1,4175.12,0.0,4175.12,846.07,2.7,Debit Card
+ORD10144,2024-12-18,CUST1080,Customer_120,Male,31,East,Guwahati,Fashion,T-Shirt,2,3043.0,0.25,4564.5,1482.04,1.4,UPI
+ORD10145,2025-11-06,CUST1094,Customer_71,Male,18,East,Kolkata,Fashion,T-Shirt,4,1927.24,0.1,6938.06,2970.01,3.5,UPI
+ORD10146,2024-03-13,CUST1226,Customer_17,Male,55,North,Chandigarh,Electronics,Smartwatch,2,4048.97,0.0,8097.94,2979.23,1.6,Cash on Delivery
+ORD10147,2025-10-09,CUST1065,Customer_253,Female,20,North,Delhi,Home & Kitchen,Mixer,3,2884.76,0.05,8221.57,1282.55,3.1,UPI
+ORD10148,2024-12-18,CUST1088,Customer_122,Female,54,West,Jaipur,Fashion,T-Shirt,4,4173.18,0.1,15023.45,4073.19,1.0,Credit Card
+ORD10149,2024-03-10,CUST1088,Customer_10,Female,48,East,Guwahati,Electronics,Laptop,3,3249.43,0.15,8286.05,1964.45,2.3,Cash on Delivery
+ORD10150,2025-02-28,CUST1201,Customer_287,Male,60,South,Mumbai,Electronics,Headphones,4,3975.93,0.15,13518.16,6053.33,3.7,Credit Card
+ORD10151,2025-12-08,CUST1214,Customer_273,Male,30,South,Bengaluru,Sports,Yoga Mat,5,3093.17,0.25,11599.39,3416.46,2.9,Debit Card
+ORD10152,2025-07-14,CUST1204,Customer_293,Male,35,South,Bengaluru,Electronics,Headphones,2,2217.17,0.05,4212.62,1848.25,4.9,Debit Card
+ORD10153,2025-10-03,CUST1089,Customer_210,Female,34,North,Lucknow,Electronics,Smartphone,1,4800.24,0.1,4320.22,1206.34,4.5,UPI
+ORD10154,2025-05-31,CUST1061,Customer_218,Male,34,South,Mumbai,Fashion,T-Shirt,4,2820.29,0.1,10153.04,1764.28,2.4,UPI
+ORD10155,2025-03-03,CUST1271,Customer_241,Male,28,North,Chandigarh,Sports,Dumbbells,4,3124.18,0.1,11247.05,1793.61,1.2,Credit Card
+ORD10156,2025-06-22,CUST1094,Customer_200,Male,37,North,Chandigarh,Electronics,Smartwatch,3,1297.32,0.0,3891.96,1120.24,4.4,Credit Card
+ORD10157,2024-06-08,CUST1027,Customer_216,Female,27,West,Jaipur,Home & Kitchen,Vacuum Cleaner,5,3221.84,0.25,12081.9,3776.06,4.6,Credit Card
+ORD10158,2024-05-28,CUST1214,Customer_205,Female,46,South,Bengaluru,Beauty,Perfume,3,2965.14,0.2,7116.34,1184.83,4.3,Debit Card
+ORD10159,2024-08-17,CUST1074,Customer_216,Male,51,South,Mumbai,Electronics,Laptop,3,1127.98,0.1,3045.55,755.04,1.5,Credit Card
+ORD10160,2025-12-12,CUST1061,Customer_80,Female,34,East,Guwahati,Beauty,Face Cream,5,533.04,0.1,2398.68,1032.7,5.0,Cash on Delivery
+ORD10161,2025-07-15,CUST1186,Customer_267,Male,59,West,Jaipur,Fashion,T-Shirt,1,3120.71,0.05,2964.67,919.88,2.0,Cash on Delivery
+ORD10162,2024-03-07,CUST1031,Customer_35,Male,30,East,Kolkata,Home & Kitchen,Mixer,3,3877.54,0.1,10469.36,3956.65,3.9,Debit Card
+ORD10163,2025-01-15,CUST1219,Customer_289,Female,56,West,Jaipur,Home & Kitchen,Bedsheet,3,2736.16,0.15,6977.21,2156.37,4.6,Credit Card
+ORD10164,2024-02-27,CUST1012,Customer_18,Female,44,South,Bengaluru,Home & Kitchen,Vacuum Cleaner,4,1327.17,0.1,4777.81,1497.18,1.9,Credit Card
+ORD10165,2024-09-15,CUST1032,Customer_165,Female,43,North,Chandigarh,Electronics,Laptop,5,3415.98,0.25,12809.92,3527.3,4.6,UPI
+ORD10166,2024-12-07,CUST1160,Customer_13,Female,45,North,Delhi,Beauty,Perfume,2,630.5,0.1,1134.9,389.24,2.2,Cash on Delivery
+ORD10167,2024-05-09,CUST1237,Customer_202,Male,30,North,Chandigarh,Fashion,Jacket,1,2348.71,0.05,2231.27,894.11,4.9,Debit Card
+ORD10168,2025-12-27,CUST1227,Customer_229,Male,29,North,Delhi,Electronics,Headphones,1,1025.99,0.15,872.09,260.65,2.1,Credit Card
+ORD10169,2024-06-20,CUST1181,Customer_1,Female,45,North,Delhi,Electronics,Laptop,5,1126.18,0.0,5630.9,1131.47,4.8,UPI
+ORD10170,2025-09-05,CUST1046,Customer_217,Female,19,East,Bhubaneswar,Home & Kitchen,Vacuum Cleaner,4,1210.9,0.05,4601.42,1154.02,1.2,Debit Card
+ORD10171,2024-07-27,CUST1080,Customer_34,Male,54,West,Pune,Home & Kitchen,Bedsheet,4,2086.86,0.05,7930.07,2763.55,3.8,Debit Card
+ORD10172,2024-12-19,CUST1135,Customer_266,Male,51,South,Bengaluru,Electronics,Laptop,5,492.96,0.1,2218.32,375.66,3.1,Cash on Delivery
+ORD10173,2025-04-15,CUST1260,Customer_128,Male,40,East,Guwahati,Fashion,T-Shirt,4,2139.52,0.15,7274.37,1282.75,2.9,Credit Card
+ORD10174,2024-04-25,CUST1247,Customer_212,Male,46,West,Jaipur,Electronics,Laptop,1,2680.61,0.1,2412.55,934.13,1.9,Debit Card
+ORD10175,2024-09-20,CUST1159,Customer_263,Female,52,North,Delhi,Home & Kitchen,Mixer,1,2545.65,0.15,2163.8,948.12,3.8,UPI
+ORD10176,2025-10-23,CUST1203,Customer_80,Female,28,West,Ahmedabad,Electronics,Headphones,2,2068.22,0.1,3722.8,847.34,1.8,UPI
+ORD10177,2025-03-17,CUST1112,Customer_165,Female,50,West,Ahmedabad,Home & Kitchen,Vacuum Cleaner,5,4235.95,0.05,20120.76,4058.7,3.2,Debit Card
+ORD10178,2025-07-01,CUST1292,Customer_252,Male,28,North,Lucknow,Fashion,Jacket,3,940.3,0.15,2397.76,382.78,2.0,UPI
+ORD10179,2025-03-28,CUST1119,Customer_12,Male,26,North,Lucknow,Sports,Football,3,2652.06,0.05,7558.37,1383.55,4.8,Debit Card
+ORD10180,2025-04-21,CUST1017,Customer_212,Female,31,North,Chandigarh,Electronics,Smartwatch,2,544.7,0.05,1034.93,279.27,1.1,UPI
+ORD10181,2024-10-13,CUST1227,Customer_282,Female,26,South,Mumbai,Fashion,Jacket,2,587.99,0.1,1058.38,307.97,1.8,Debit Card
+ORD10182,2024-10-29,CUST1117,Customer_112,Female,56,North,Lucknow,Electronics,Smartphone,4,2975.86,0.05,11308.27,4994.27,2.0,Debit Card
+ORD10183,2024-11-06,CUST1043,Customer_211,Male,20,South,Mumbai,Sports,Football,2,2938.59,0.0,5877.18,2209.84,2.7,Debit Card
+ORD10184,2024-07-26,CUST1115,Customer_239,Female,46,North,Delhi,Sports,Cricket Bat,2,4420.66,0.1,7957.19,2483.56,1.9,UPI
+ORD10185,2025-09-09,CUST1283,Customer_268,Male,36,South,Chennai,Electronics,Smartphone,3,2899.9,0.1,7829.73,2047.07,3.0,Debit Card
+ORD10186,2025-03-21,CUST1037,Customer_298,Female,53,West,Pune,Home & Kitchen,Bedsheet,4,4809.01,0.1,17312.44,4896.38,4.5,Cash on Delivery
+ORD10187,2025-10-31,CUST1113,Customer_58,Female,49,East,Kolkata,Beauty,Face Cream,2,481.3,0.25,721.95,164.03,3.8,Debit Card
+ORD10188,2025-09-24,CUST1035,Customer_34,Female,24,West,Ahmedabad,Home & Kitchen,Cookware Set,2,715.54,0.1,1287.97,471.49,3.3,Credit Card
+ORD10189,2024-02-24,CUST1132,Customer_263,Male,45,West,Pune,Fashion,Jeans,4,459.31,0.2,1469.79,412.3,1.4,Credit Card
+ORD10190,2024-01-12,CUST1228,Customer_35,Male,35,North,Chandigarh,Electronics,Headphones,5,1130.07,0.0,5650.35,2393.25,3.8,Cash on Delivery
+ORD10191,2025-10-18,CUST1147,Customer_271,Male,22,South,Chennai,Electronics,Laptop,4,2821.03,0.1,10155.71,3309.75,1.7,Debit Card
+ORD10192,2025-02-03,CUST1122,Customer_227,Male,40,East,Guwahati,Sports,Yoga Mat,3,3316.47,0.2,7959.53,1790.51,4.1,Credit Card
+ORD10193,2025-10-09,CUST1081,Customer_25,Male,39,North,Chandigarh,Sports,Cricket Bat,5,466.53,0.1,2099.38,508.01,2.0,Debit Card
+ORD10194,2025-05-29,CUST1173,Customer_234,Male,43,North,Lucknow,Home & Kitchen,Mixer,1,4743.36,0.15,4031.86,616.1,2.7,Credit Card
+ORD10195,2025-10-17,CUST1154,Customer_59,Female,59,North,Delhi,Fashion,T-Shirt,4,4250.29,0.05,16151.1,5921.52,2.4,UPI
+ORD10196,2025-06-25,CUST1150,Customer_251,Male,29,West,Pune,Fashion,Jeans,3,1658.91,0.0,4976.73,1495.72,4.4,UPI
+ORD10197,2024-08-24,CUST1058,Customer_86,Female,57,South,Mumbai,Beauty,Perfume,5,616.64,0.1,2774.88,974.37,1.5,Cash on Delivery
+ORD10198,2024-10-05,CUST1063,Customer_251,Male,36,South,Chennai,Sports,Dumbbells,4,1056.96,0.05,4016.45,1276.5,3.3,Cash on Delivery
+ORD10199,2024-12-13,CUST1156,Customer_180,Female,18,East,Kolkata,Sports,Cricket Bat,2,852.99,0.2,1364.78,263.29,1.6,Debit Card
+ORD10200,2025-09-18,CUST1168,Customer_207,Female,20,South,Chennai,Beauty,Face Cream,4,835.6,0.05,3175.28,777.11,3.8,Cash on Delivery
+ORD10201,2024-04-13,CUST1166,Customer_149,Male,44,South,Mumbai,Home & Kitchen,Mixer,1,2713.17,0.25,2034.88,377.0,4.6,Debit Card
+ORD10202,2025-09-21,CUST1085,Customer_71,Female,35,North,Chandigarh,Electronics,Laptop,4,1417.78,0.25,4253.34,1654.32,2.7,UPI
+ORD10203,2025-05-31,CUST1137,Customer_121,Male,47,North,Lucknow,Electronics,Headphones,5,1951.16,0.05,9268.01,1742.31,3.0,UPI
+ORD10204,2024-09-04,CUST1189,Customer_253,Male,19,West,Jaipur,Sports,Football,5,4950.15,0.05,23513.21,10159.38,4.7,Credit Card
+ORD10205,2024-12-29,CUST1002,Customer_93,Male,22,North,Delhi,Home & Kitchen,Mixer,4,3500.49,0.2,11201.57,2054.59,3.1,Debit Card
+ORD10206,2024-11-16,CUST1106,Customer_256,Male,46,North,Lucknow,Electronics,Smartphone,5,4757.66,0.25,17841.22,6267.23,3.0,UPI
+ORD10207,2025-09-24,CUST1072,Customer_254,Female,50,North,Lucknow,Electronics,Headphones,2,927.14,0.1,1668.85,593.48,3.3,UPI
+ORD10208,2024-10-12,CUST1126,Customer_288,Male,59,North,Chandigarh,Home & Kitchen,Vacuum Cleaner,4,2065.16,0.05,7847.61,2325.82,3.8,Debit Card
+ORD10209,2024-05-28,CUST1170,Customer_59,Female,37,West,Ahmedabad,Electronics,Laptop,2,2884.98,0.1,5192.96,871.34,1.4,Credit Card
+ORD10210,2024-03-24,CUST1205,Customer_69,Female,47,North,Delhi,Electronics,Smartphone,2,614.6,0.15,1044.82,455.19,4.3,Credit Card
+ORD10211,2025-02-09,CUST1195,Customer_86,Female,59,East,Bhubaneswar,Home & Kitchen,Mixer,3,269.89,0.05,769.19,264.86,2.7,Credit Card
+ORD10212,2025-03-31,CUST1158,Customer_274,Male,22,East,Kolkata,Home & Kitchen,Bedsheet,4,3434.56,0.15,11677.5,2254.09,1.3,Credit Card
+ORD10213,2024-06-09,CUST1141,Customer_227,Female,38,East,Kolkata,Home & Kitchen,Cookware Set,5,3298.64,0.0,16493.2,5462.28,4.1,UPI
+ORD10214,2025-04-04,CUST1275,Customer_81,Male,32,East,Kolkata,Electronics,Headphones,2,2201.25,0.0,4402.5,1718.09,2.5,Debit Card
+ORD10215,2025-07-03,CUST1007,Customer_114,Female,37,North,Lucknow,Beauty,Shampoo,3,2575.81,0.05,7341.06,2367.95,1.4,Debit Card
+ORD10216,2025-05-14,CUST1054,Customer_184,Male,25,East,Bhubaneswar,Electronics,Laptop,4,2223.35,0.05,8448.73,2824.7,3.5,UPI
+ORD10217,2025-05-23,CUST1104,Customer_280,Male,48,North,Delhi,Fashion,Jeans,4,364.02,0.05,1383.28,242.59,4.5,UPI
+ORD10218,2025-10-15,CUST1061,Customer_54,Male,29,West,Ahmedabad,Beauty,Face Cream,1,1843.02,0.1,1658.72,367.27,4.6,UPI
+ORD10219,2025-04-25,CUST1087,Customer_197,Male,38,East,Kolkata,Home & Kitchen,Vacuum Cleaner,1,1091.14,0.05,1036.58,309.38,4.8,Cash on Delivery
+ORD10220,2025-10-24,CUST1258,Customer_293,Female,47,South,Bengaluru,Beauty,Perfume,2,717.51,0.0,1435.02,220.26,4.5,Debit Card
+ORD10221,2024-04-23,CUST1178,Customer_293,Female,44,East,Bhubaneswar,Home & Kitchen,Vacuum Cleaner,1,4794.42,0.05,4554.7,1413.86,1.0,Debit Card
+ORD10222,2025-07-31,CUST1242,Customer_291,Male,43,East,Kolkata,Home & Kitchen,Bedsheet,2,3096.96,0.25,4645.44,2009.29,2.5,Debit Card
+ORD10223,2024-12-26,CUST1203,Customer_180,Female,50,North,Lucknow,Electronics,Laptop,5,3711.12,0.1,16700.04,6201.02,4.3,Credit Card
+ORD10224,2024-12-06,CUST1031,Customer_222,Male,43,East,Bhubaneswar,Fashion,T-Shirt,2,1747.98,0.1,3146.36,1004.25,2.5,UPI
+ORD10225,2025-03-24,CUST1289,Customer_274,Male,43,South,Chennai,Electronics,Smartwatch,1,2117.45,0.1,1905.7,767.86,3.4,UPI
+ORD10226,2024-06-28,CUST1080,Customer_244,Female,53,North,Lucknow,Electronics,Smartphone,5,1375.39,0.25,5157.71,854.79,3.4,UPI
+ORD10227,2025-12-02,CUST1011,Customer_154,Male,57,North,Delhi,Sports,Football,1,710.59,0.05,675.06,148.48,2.5,Cash on Delivery
+ORD10228,2025-02-10,CUST1254,Customer_273,Male,18,West,Pune,Fashion,T-Shirt,2,1100.4,0.15,1870.68,691.24,4.6,Debit Card
+ORD10229,2025-10-27,CUST1287,Customer_135,Male,32,West,Pune,Sports,Yoga Mat,3,4038.19,0.15,10297.38,2808.7,3.0,UPI
+ORD10230,2024-07-14,CUST1176,Customer_8,Male,18,East,Bhubaneswar,Home & Kitchen,Vacuum Cleaner,4,3468.34,0.1,12486.02,2916.3,2.9,Cash on Delivery
+ORD10231,2025-04-10,CUST1126,Customer_128,Male,28,West,Pune,Beauty,Shampoo,1,2847.91,0.0,2847.91,477.36,5.0,UPI
+ORD10232,2024-11-06,CUST1047,Customer_56,Female,19,West,Pune,Fashion,T-Shirt,2,2506.68,0.15,4261.36,790.52,3.0,Credit Card
+ORD10233,2024-09-18,CUST1206,Customer_126,Female,18,West,Ahmedabad,Home & Kitchen,Cookware Set,5,4631.56,0.0,23157.8,6841.79,1.7,Debit Card
+ORD10234,2025-02-22,CUST1107,Customer_159,Female,48,North,Chandigarh,Fashion,Shoes,1,595.49,0.1,535.94,116.62,3.1,Cash on Delivery
+ORD10235,2025-02-09,CUST1275,Customer_59,Male,33,North,Delhi,Electronics,Smartphone,1,1582.85,0.15,1345.42,378.54,4.3,UPI
+ORD10236,2024-05-22,CUST1123,Customer_58,Male,39,North,Delhi,Beauty,Makeup Kit,4,1912.2,0.05,7266.36,2065.02,4.1,Debit Card
+ORD10237,2024-12-07,CUST1134,Customer_140,Male,59,West,Pune,Fashion,Shoes,2,3966.52,0.15,6743.08,2802.27,4.2,Cash on Delivery
+ORD10238,2024-11-11,CUST1107,Customer_176,Male,35,North,Delhi,Electronics,Headphones,3,4964.44,0.0,14893.32,6138.41,3.8,Debit Card
+ORD10239,2024-04-10,CUST1050,Customer_108,Male,34,West,Jaipur,Home & Kitchen,Vacuum Cleaner,5,1393.18,0.15,5921.02,1723.85,2.0,Debit Card
+ORD10240,2024-08-31,CUST1095,Customer_211,Male,47,North,,Electronics,Smartphone,2,4402.96,0.1,7925.33,2927.15,4.4,Credit Card
+ORD10241,2025-05-04,CUST1268,Customer_74,Female,27,North,Delhi,Sports,Yoga Mat,5,4195.46,0.05,19928.43,8842.02,4.6,Debit Card
+ORD10242,2024-01-12,CUST1023,Customer_167,Male,52,South,Chennai,Sports,Football,1,1317.12,0.0,1317.12,307.08,1.8,Cash on Delivery
+ORD10243,2024-08-26,CUST1054,Customer_233,Female,38,East,Bhubaneswar,Sports,Yoga Mat,4,2146.83,0.25,6440.49,2835.45,1.5,Debit Card
+ORD10244,2025-07-14,CUST1254,Customer_182,Male,33,West,Jaipur,Fashion,Jeans,4,2195.95,0.0,8783.8,2384.07,4.9,Cash on Delivery
+ORD10245,2024-02-11,CUST1235,Customer_122,Female,23,South,Chennai,Electronics,Smartwatch,3,4896.55,0.0,14689.65,4234.17,4.5,Debit Card
+ORD10246,2025-11-08,CUST1059,Customer_203,Male,20,North,Delhi,Sports,Cricket Bat,4,1109.24,0.05,4215.11,671.7,4.6,UPI
+ORD10247,2025-08-16,CUST1164,Customer_29,Female,58,West,Jaipur,Fashion,T-Shirt,1,4046.0,0.1,3641.4,1109.67,4.5,Credit Card
+ORD10248,2025-03-04,CUST1259,Customer_202,Female,60,North,Lucknow,Sports,Football,3,1837.42,0.1,4961.03,2137.8,3.2,UPI
+ORD10249,2024-06-06,CUST1216,Customer_93,Male,38,East,Guwahati,Sports,Dumbbells,2,3721.63,0.0,7443.26,2117.56,3.6,Credit Card
+ORD10250,2024-08-03,CUST1183,Customer_176,Male,30,South,Chennai,Sports,Yoga Mat,4,2245.05,0.05,8531.19,1686.37,3.2,Cash on Delivery
+ORD10251,2025-10-31,CUST1057,Customer_211,Female,35,East,Bhubaneswar,Fashion,T-Shirt,3,2997.21,0.05,8542.05,1289.38,1.2,Credit Card
+ORD10252,2025-04-06,CUST1145,Customer_184,Male,41,South,Mumbai,Fashion,Shoes,1,4204.91,0.05,3994.66,1281.87,4.0,Debit Card
+ORD10253,2024-05-13,CUST1090,Customer_95,Male,44,North,Delhi,Sports,Football,5,4069.79,0.1,18314.06,6481.54,3.0,Debit Card
+ORD10254,2024-03-07,CUST1045,Customer_273,Male,21,East,Bhubaneswar,Fashion,Jeans,5,4365.51,0.15,18553.42,3302.58,3.6,UPI
+ORD10255,2024-01-07,CUST1257,Customer_137,Female,39,East,Guwahati,Electronics,Smartwatch,1,533.18,0.05,506.52,198.87,3.0,Credit Card
+ORD10256,2025-06-09,CUST1021,Customer_237,Male,41,North,Chandigarh,Home & Kitchen,Vacuum Cleaner,1,3537.24,0.05,3360.38,891.75,3.0,Cash on Delivery
+ORD10257,2024-03-13,CUST1021,Customer_265,Female,57,East,Guwahati,Sports,Football,5,914.94,0.05,4345.96,1426.72,1.7,Cash on Delivery
+ORD10258,2025-02-02,CUST1052,Customer_135,Female,27,West,Ahmedabad,Home & Kitchen,Cookware Set,3,2225.14,0.25,5006.57,2191.25,2.1,Debit Card
+ORD10259,2025-02-08,CUST1171,Customer_144,Male,19,South,Mumbai,Home & Kitchen,Vacuum Cleaner,5,2855.79,0.25,10709.21,3703.39,1.6,Cash on Delivery
+ORD10260,2025-11-05,CUST1067,Customer_19,Female,57,South,Mumbai,Electronics,Headphones,1,2163.01,0.15,1838.56,681.06,1.8,Debit Card
+ORD10261,2025-07-31,CUST1113,Customer_231,Male,23,South,Mumbai,Home & Kitchen,Mixer,4,2718.16,0.05,10329.01,2522.06,4.9,Debit Card
+ORD10262,2024-05-09,CUST1300,Customer_134,Male,35,West,Jaipur,Sports,Dumbbells,2,4983.5,0.0,9967.0,1648.17,1.6,Debit Card
+ORD10263,2025-04-10,CUST1160,Customer_114,Female,34,South,Chennai,Electronics,Laptop,4,892.28,0.05,3390.66,1253.14,2.1,UPI
+ORD10264,2024-07-24,CUST1266,Customer_139,Female,55,North,Chandigarh,Fashion,Jeans,4,3458.42,0.05,13142.0,2714.61,3.4,UPI
+ORD10265,2024-09-22,CUST1232,Customer_125,Female,40,East,Bhubaneswar,Sports,Cricket Bat,1,2131.0,0.1,1917.9,831.2,3.4,Debit Card
+ORD10266,2025-06-20,CUST1068,Customer_204,Female,47,West,Pune,Beauty,Face Cream,5,881.8,0.15,3747.65,1081.44,1.6,Debit Card
+ORD10267,2024-09-09,CUST1028,Customer_61,Female,38,South,Chennai,Home & Kitchen,Vacuum Cleaner,3,1004.0,0.2,2409.6,1033.32,4.2,Debit Card
+ORD10268,2024-10-15,CUST1116,Customer_250,Male,27,North,Chandigarh,Home & Kitchen,Vacuum Cleaner,4,4759.05,0.15,16180.77,2747.33,4.1,Cash on Delivery
+ORD10269,2024-06-12,CUST1051,Customer_298,Female,60,East,Guwahati,Fashion,T-Shirt,5,4428.11,0.05,21033.52,4629.36,1.9,Debit Card
+ORD10270,2024-04-04,CUST1181,Customer_13,Male,30,East,Guwahati,Fashion,Jacket,3,4558.45,0.15,11624.05,2936.41,2.2,Debit Card
+ORD10271,2024-04-19,CUST1260,Customer_255,Male,29,West,Pune,Beauty,Face Cream,4,4959.78,0.05,18847.16,3822.79,4.8,Credit Card
+ORD10272,2024-12-01,CUST1079,Customer_85,Female,26,West,,Beauty,Face Cream,3,1239.5,0.0,3718.5,950.98,,Credit Card
+ORD10273,2024-08-25,CUST1273,Customer_20,Female,21,West,,Sports,Yoga Mat,5,1938.34,0.15,8237.94,1312.44,3.8,Credit Card
+ORD10274,2025-01-15,CUST1108,Customer_50,Female,56,North,Lucknow,Sports,Cricket Bat,2,3428.79,0.0,6857.58,1617.1,1.3,Credit Card
+ORD10275,2025-03-11,CUST1074,Customer_164,Female,41,North,Lucknow,Fashion,Jacket,5,2548.06,0.1,11466.27,1979.11,2.7,Debit Card
+ORD10276,2025-04-27,CUST1175,Customer_92,Female,51,West,Jaipur,Fashion,T-Shirt,1,2237.35,0.05,2125.48,626.72,3.2,Credit Card
+ORD10277,2024-01-25,CUST1184,Customer_88,Male,56,South,Mumbai,Beauty,Makeup Kit,3,1949.6,0.15,4971.48,2062.57,1.7,Cash on Delivery
+ORD10278,2025-10-14,CUST1023,Customer_69,Male,58,East,Bhubaneswar,Home & Kitchen,Cookware Set,2,3070.46,0.15,5219.78,1521.81,2.8,Cash on Delivery
+ORD10279,2024-04-26,CUST1274,Customer_37,Male,22,East,Kolkata,Home & Kitchen,Mixer,3,2984.07,0.05,8504.6,3503.37,3.4,Credit Card
+ORD10280,2025-04-26,CUST1129,Customer_253,Female,32,North,Chandigarh,Beauty,Perfume,3,1016.92,0.15,2593.15,705.99,2.3,UPI
+ORD10281,2025-01-26,CUST1291,Customer_252,Female,21,East,Guwahati,Sports,Cricket Bat,4,2490.76,0.05,9464.89,2889.18,4.1,Cash on Delivery
+ORD10282,2025-06-20,CUST1186,Customer_140,Male,56,South,Bengaluru,Fashion,Shoes,1,2878.99,0.1,2591.09,682.05,4.4,Cash on Delivery
+ORD10283,2024-03-19,CUST1059,Customer_168,Female,25,East,Kolkata,Fashion,Jacket,3,2958.86,0.15,7545.09,3372.55,2.3,Credit Card
+ORD10284,2025-08-02,CUST1001,Customer_54,Female,41,North,Delhi,Electronics,Smartwatch,5,1248.01,0.15,5304.04,2076.79,4.4,Credit Card
+ORD10285,2024-06-21,CUST1131,Customer_178,Female,45,North,Lucknow,Home & Kitchen,Cookware Set,5,3775.79,0.25,14159.21,4284.59,1.4,Debit Card
+ORD10286,2024-01-12,CUST1067,Customer_297,Male,60,South,Mumbai,Electronics,Smartwatch,4,369.7,0.05,1404.86,231.59,4.4,Cash on Delivery
+ORD10287,2024-05-07,CUST1293,Customer_106,Female,44,South,Chennai,Fashion,Shoes,1,1935.45,0.15,1645.13,550.98,1.6,Credit Card
+ORD10288,2025-08-30,CUST1285,Customer_137,Male,18,East,Kolkata,Home & Kitchen,Mixer,1,3956.01,0.1,3560.41,1148.9,1.3,Credit Card
+ORD10289,2024-04-01,CUST1089,Customer_190,Female,51,East,Kolkata,Fashion,T-Shirt,5,2928.49,0.2,11713.96,2759.71,3.6,Debit Card
+ORD10290,2025-10-14,CUST1100,Customer_128,Female,34,North,Lucknow,Home & Kitchen,Mixer,2,1490.52,0.0,2981.04,801.49,2.9,Cash on Delivery
+ORD10291,2025-06-26,CUST1189,Customer_47,Male,54,South,Bengaluru,Electronics,Laptop,4,3551.03,0.15,12073.5,4350.35,4.6,Credit Card
+ORD10292,2025-06-15,CUST1241,Customer_5,Female,55,South,Mumbai,Electronics,Smartwatch,4,2945.11,0.1,10602.4,3464.39,2.5,Debit Card
+ORD10293,2025-10-19,CUST1270,Customer_257,Female,43,South,Bengaluru,Beauty,Perfume,5,4032.16,0.05,19152.76,7367.88,2.1,Credit Card
+ORD10294,2025-03-22,CUST1219,Customer_300,Female,41,East,Kolkata,Fashion,Jacket,5,3741.37,0.1,16836.16,2697.04,3.0,UPI
+ORD10295,2025-01-24,CUST1176,Customer_150,Male,56,South,Mumbai,Electronics,Smartwatch,2,3148.01,0.05,5981.22,2457.14,2.8,UPI
+ORD10296,2025-11-02,CUST1233,Customer_294,Female,38,North,Delhi,Fashion,Jacket,2,2568.84,0.1,4623.91,1564.96,2.4,Credit Card
+ORD10297,2024-02-12,CUST1151,Customer_243,Female,47,North,Delhi,Beauty,Face Cream,1,882.62,0.2,706.1,312.27,3.8,Cash on Delivery
+ORD10298,2024-09-10,CUST1277,Customer_275,Female,30,East,Bhubaneswar,Electronics,Headphones,4,1491.33,0.1,5368.79,2058.75,4.0,UPI
+ORD10299,2024-05-09,CUST1229,Customer_208,Female,54,West,Ahmedabad,Home & Kitchen,Bedsheet,4,2240.72,0.1,8066.59,1741.24,4.4,Debit Card
+ORD10300,2024-02-29,CUST1171,Customer_115,Female,20,East,Kolkata,Electronics,Smartwatch,5,3096.67,0.1,13935.02,5429.74,4.9,Credit Card
+ORD10301,2025-10-24,CUST1223,Customer_195,Male,49,West,Pune,Electronics,Smartphone,1,2690.11,0.0,2690.11,1145.94,2.1,Debit Card
+ORD10302,2025-04-11,CUST1213,Customer_170,Male,52,South,Bengaluru,Home & Kitchen,Mixer,4,1618.88,0.05,6151.74,1892.67,3.9,UPI
+ORD10303,2024-10-13,CUST1282,Customer_82,Female,36,East,Guwahati,Home & Kitchen,Bedsheet,1,280.71,0.1,252.64,112.93,2.6,Cash on Delivery
+ORD10304,2025-05-31,CUST1041,Customer_154,Female,31,North,Lucknow,Home & Kitchen,Mixer,1,2607.14,0.05,2476.78,1051.57,3.7,Debit Card
+ORD10305,2025-04-11,CUST1122,Customer_141,Male,39,South,Bengaluru,Beauty,Face Cream,5,1606.72,0.0,8033.6,1668.68,2.9,UPI
+ORD10306,2024-12-10,CUST1227,Customer_146,Female,34,North,Delhi,Sports,Yoga Mat,1,3739.39,0.1,3365.45,735.55,5.0,UPI
+ORD10307,2025-10-03,CUST1294,Customer_122,Female,21,South,Mumbai,Fashion,Jeans,2,363.74,0.05,691.11,121.26,3.9,UPI
+ORD10308,2025-01-16,CUST1088,Customer_252,Female,57,East,Guwahati,Fashion,Jacket,2,3027.93,0.05,5753.07,1114.06,4.8,Debit Card
+ORD10309,2025-11-20,CUST1267,Customer_89,Female,36,West,Jaipur,Beauty,Perfume,3,4722.0,0.1,12749.4,3124.21,4.3,UPI
+ORD10310,2024-09-09,CUST1029,Customer_58,Female,54,South,Bengaluru,Electronics,Headphones,5,1078.44,0.0,5392.2,2341.83,4.6,Credit Card
+ORD10311,2024-02-25,CUST1247,Customer_63,Female,19,West,Jaipur,Fashion,Jeans,3,2490.34,0.2,5976.82,1285.89,4.3,UPI
+ORD10312,2025-04-07,CUST1244,Customer_280,Female,32,South,Bengaluru,Electronics,Smartwatch,2,684.25,0.2,1094.8,214.96,2.8,Credit Card
+ORD10313,2025-04-01,CUST1061,Customer_72,Female,19,North,Lucknow,Electronics,Headphones,3,3221.99,0.15,8216.07,1727.64,2.0,Cash on Delivery
+ORD10314,2024-03-23,CUST1147,Customer_9,Male,28,North,Lucknow,Sports,Yoga Mat,5,2865.03,0.0,14325.15,4261.11,2.5,Credit Card
+ORD10315,2024-04-08,CUST1174,Customer_94,Male,40,South,Chennai,Beauty,Perfume,5,2184.99,0.15,9286.21,3529.96,1.1,Cash on Delivery
+ORD10316,2024-05-28,CUST1278,Customer_152,Female,27,West,Pune,Home & Kitchen,Mixer,1,2726.54,0.15,2317.56,455.17,3.1,Cash on Delivery
+ORD10317,2024-11-24,CUST1142,Customer_40,Female,20,East,Kolkata,Fashion,Jeans,4,4508.73,0.15,15329.68,3554.2,3.0,Credit Card
+ORD10318,2024-06-04,CUST1044,Customer_62,Female,22,East,Kolkata,Electronics,Smartphone,1,1182.4,0.0,1182.4,184.18,3.1,Cash on Delivery
+ORD10319,2024-07-08,CUST1144,Customer_254,Female,20,North,Lucknow,Electronics,Headphones,5,357.18,0.1,1607.31,648.22,4.9,Credit Card
+ORD10320,2025-05-08,CUST1055,Customer_69,Male,55,East,Bhubaneswar,Electronics,Headphones,2,4342.91,0.15,7382.95,2822.51,4.6,Debit Card
+ORD10321,2024-09-19,CUST1161,Customer_245,Male,30,North,Chandigarh,Home & Kitchen,Bedsheet,2,2991.31,0.1,5384.36,2080.84,1.6,
+ORD10322,2024-03-20,CUST1285,Customer_170,Male,59,East,Bhubaneswar,Beauty,Shampoo,1,4480.63,0.1,4032.57,855.86,2.5,Credit Card
+ORD10323,2025-02-03,CUST1198,Customer_178,Male,36,South,Bengaluru,Home & Kitchen,Cookware Set,5,3085.49,0.1,13884.7,5469.57,2.7,Cash on Delivery
+ORD10324,2025-08-31,CUST1159,Customer_189,Female,57,North,Delhi,Electronics,Smartwatch,2,4098.27,0.1,7376.89,3172.08,2.4,UPI
+ORD10325,2024-09-16,CUST1080,Customer_260,Female,52,North,Delhi,Sports,Football,5,2290.95,0.0,11454.75,1723.16,4.2,Credit Card
+ORD10326,2025-09-06,CUST1031,Customer_72,Female,41,South,Chennai,Beauty,Face Cream,2,3811.83,0.1,6861.29,3036.5,3.1,UPI
+ORD10327,2025-07-05,CUST1112,Customer_17,Male,41,North,Lucknow,Home & Kitchen,Cookware Set,5,4586.95,0.0,22934.75,4573.8,3.3,Cash on Delivery
+ORD10328,2024-04-10,CUST1046,Customer_57,Female,34,East,Bhubaneswar,Home & Kitchen,Bedsheet,3,2967.58,0.1,8012.47,2727.36,4.4,Cash on Delivery
+ORD10329,2024-12-24,CUST1205,Customer_218,Female,57,East,Kolkata,Fashion,Shoes,5,1108.73,0.05,5266.47,1040.21,4.2,Debit Card
+ORD10330,2025-01-14,CUST1052,Customer_107,Male,27,North,Chandigarh,Electronics,Laptop,5,1526.79,0.1,6870.56,1948.59,1.5,Credit Card
+ORD10331,2024-08-08,CUST1138,Customer_173,Male,19,East,Guwahati,Fashion,Jacket,1,1193.56,0.0,1193.56,214.26,3.9,UPI
+ORD10332,2025-02-23,CUST1074,Customer_219,Male,40,West,Jaipur,Beauty,Shampoo,3,1422.57,0.15,3627.55,624.45,2.7,Debit Card
+ORD10333,2024-05-03,CUST1041,Customer_247,Male,23,North,Chandigarh,Electronics,Laptop,4,1705.47,0.15,5798.6,2593.54,2.2,Cash on Delivery
+ORD10334,2025-02-25,CUST1077,Customer_218,Male,19,South,Chennai,Electronics,Smartphone,1,2886.89,0.0,2886.89,1233.79,1.2,Cash on Delivery
+ORD10335,2024-08-18,CUST1187,Customer_31,Female,38,West,Ahmedabad,Electronics,Smartphone,4,3042.96,0.0,12171.84,4563.13,2.9,Debit Card
+ORD10336,2025-11-20,CUST1052,Customer_47,Female,52,North,Delhi,Electronics,Smartwatch,2,2275.87,0.0,4551.74,1134.32,2.4,UPI
+ORD10337,2024-03-03,CUST1087,Customer_134,Male,46,South,Bengaluru,Sports,Football,4,3173.25,0.2,10154.4,1863.52,2.0,Cash on Delivery
+ORD10338,2025-04-29,CUST1109,Customer_108,Female,24,East,Kolkata,Home & Kitchen,Cookware Set,5,637.48,0.1,2868.66,895.07,3.8,Cash on Delivery
+ORD10339,2025-09-19,CUST1225,Customer_72,Female,46,South,Mumbai,Fashion,Jacket,4,666.99,0.1,2401.16,643.29,4.1,Credit Card
+ORD10340,2025-12-03,CUST1248,Customer_108,Female,54,West,Jaipur,Electronics,Smartphone,1,1066.19,0.0,1066.19,419.49,2.0,Debit Card
+ORD10341,2025-07-27,CUST1069,Customer_272,Female,40,East,Guwahati,Fashion,Jeans,1,2710.87,0.1,2439.78,508.72,1.2,Cash on Delivery
+ORD10342,2025-04-27,CUST1120,Customer_171,Male,50,North,Lucknow,Fashion,Shoes,4,1266.47,0.2,4052.7,647.63,4.4,UPI
+ORD10343,2025-06-02,CUST1067,Customer_116,Female,25,East,Bhubaneswar,Electronics,Smartphone,1,1595.6,0.15,1356.26,501.03,1.0,Credit Card
+ORD10344,2024-06-03,CUST1061,Customer_74,Female,29,North,Chandigarh,Fashion,T-Shirt,1,2151.49,0.1,1936.34,583.91,4.7,Debit Card
+ORD10345,2024-04-01,CUST1191,Customer_256,Female,27,North,Lucknow,Fashion,T-Shirt,4,4106.36,0.0,16425.44,6967.1,3.5,UPI
+ORD10346,2025-06-09,CUST1189,Customer_81,Male,32,South,Bengaluru,Home & Kitchen,Vacuum Cleaner,3,315.85,0.0,947.55,267.45,2.3,Cash on Delivery
+ORD10347,2025-03-30,CUST1151,Customer_268,Female,41,South,Chennai,Home & Kitchen,Bedsheet,3,3334.55,0.0,10003.65,2992.74,2.0,Debit Card
+ORD10348,2025-08-20,CUST1286,Customer_128,Male,43,South,Bengaluru,Electronics,Laptop,2,3427.16,0.05,6511.6,2648.07,1.0,Debit Card
+ORD10349,2025-10-06,CUST1096,Customer_235,Male,59,West,Pune,Fashion,Jacket,1,4043.61,0.0,4043.61,1283.36,1.9,UPI
+ORD10350,2025-05-24,CUST1263,Customer_41,Male,56,West,Pune,Home & Kitchen,Vacuum Cleaner,4,4680.58,0.05,17786.2,6221.05,1.6,Debit Card
+ORD10351,2024-07-01,CUST1097,Customer_181,Male,20,South,Chennai,Fashion,Jacket,1,345.65,0.05,328.37,96.36,3.4,UPI
+ORD10352,2025-01-20,CUST1113,Customer_157,Female,19,West,Ahmedabad,Sports,Yoga Mat,5,980.47,0.2,3921.88,1075.79,1.7,Cash on Delivery
+ORD10353,2025-07-27,CUST1125,Customer_59,Male,23,East,Bhubaneswar,Home & Kitchen,Bedsheet,1,4459.31,0.1,4013.38,1795.79,3.1,Credit Card
+ORD10354,2025-12-31,CUST1132,Customer_249,Male,38,East,Kolkata,Electronics,Smartwatch,1,2427.96,0.15,2063.77,457.53,3.4,UPI
+ORD10355,2025-02-08,CUST1121,Customer_192,Male,26,West,Pune,Electronics,Laptop,3,2931.81,0.15,7476.12,1765.08,2.2,Credit Card
+ORD10356,2024-09-02,CUST1197,Customer_24,Male,27,West,Jaipur,Home & Kitchen,Bedsheet,4,3399.38,0.0,13597.52,4624.71,1.1,Debit Card
+ORD10357,2025-08-13,CUST1294,Customer_80,Male,53,East,Kolkata,Electronics,Laptop,1,3475.57,0.15,2954.23,1282.49,1.1,UPI
+ORD10358,2025-10-22,CUST1122,Customer_134,Female,20,North,Lucknow,Home & Kitchen,Bedsheet,3,4675.77,0.05,13325.94,2978.62,1.1,Cash on Delivery
+ORD10359,2025-10-11,CUST1282,Customer_213,Male,58,East,Kolkata,Sports,Cricket Bat,2,4985.51,0.1,8973.92,1466.76,4.0,UPI
+ORD10360,2025-04-15,CUST1260,Customer_166,Female,41,East,Kolkata,Home & Kitchen,Mixer,3,3670.75,0.05,10461.64,3954.02,2.3,UPI
+ORD10361,2025-02-26,CUST1039,Customer_71,Female,39,West,Ahmedabad,Fashion,Jacket,3,1614.3,0.25,3632.18,1281.95,4.2,UPI
+ORD10362,2024-03-05,CUST1054,Customer_214,Male,31,East,Kolkata,Home & Kitchen,Cookware Set,3,4428.82,0.05,12622.14,4983.93,2.7,Credit Card
+ORD10363,2024-01-13,CUST1161,Customer_65,Female,59,West,Pune,Fashion,Shoes,1,483.8,0.05,459.61,127.27,2.8,Credit Card
+ORD10364,2024-07-31,CUST1289,Customer_221,Female,44,West,Jaipur,Home & Kitchen,Vacuum Cleaner,1,1347.63,0.2,1078.1,435.06,3.1,Debit Card
+ORD10365,2024-08-29,CUST1200,Customer_286,Female,50,South,Mumbai,Sports,Dumbbells,2,4512.58,0.0,9025.16,3096.91,3.9,
+ORD10366,2025-05-07,CUST1276,Customer_185,Male,39,East,Guwahati,Fashion,Shoes,5,1466.91,0.15,6234.37,1501.84,2.1,Debit Card
+ORD10367,2024-07-31,CUST1016,Customer_207,Male,46,North,Delhi,Sports,Cricket Bat,5,1298.09,0.15,5516.88,1555.57,1.5,Debit Card
+ORD10368,2025-11-23,CUST1173,Customer_99,Male,36,South,Mumbai,Sports,Yoga Mat,5,906.1,0.15,3850.92,1286.44,3.2,UPI
+ORD10369,2024-12-03,CUST1248,Customer_242,Male,36,West,Jaipur,Electronics,Smartphone,2,4330.78,0.25,6496.17,2104.27,2.3,Credit Card
+ORD10370,2024-06-21,CUST1218,Customer_158,Male,23,West,Ahmedabad,Electronics,Laptop,5,2625.28,0.25,9844.8,2770.0,2.8,Credit Card
+ORD10371,2025-11-02,CUST1087,Customer_98,Male,36,North,Lucknow,Electronics,Smartwatch,5,3455.74,0.0,17278.7,7745.01,3.6,Credit Card
+ORD10372,2024-06-12,CUST1082,Customer_42,Male,30,West,Jaipur,Electronics,Smartwatch,3,1385.57,0.15,3533.2,1506.72,3.0,Credit Card
+ORD10373,2025-04-09,CUST1062,Customer_139,Female,43,East,Guwahati,Electronics,Smartwatch,1,3850.69,0.1,3465.62,643.3,3.5,Debit Card
+ORD10374,2025-05-11,CUST1287,Customer_283,Female,39,South,Bengaluru,Home & Kitchen,Vacuum Cleaner,1,3860.03,0.1,3474.03,1482.15,3.2,UPI
+ORD10375,2025-11-30,CUST1042,Customer_227,Male,38,West,Pune,Electronics,Laptop,3,1734.84,0.0,5204.52,1238.46,4.0,Credit Card
+ORD10376,2025-01-29,CUST1012,Customer_72,Female,53,West,Jaipur,Fashion,Jacket,3,2200.74,0.15,5611.89,976.4,3.8,Cash on Delivery
+ORD10377,2025-12-03,CUST1234,Customer_243,Male,19,North,Lucknow,Beauty,Perfume,3,1246.03,0.25,2803.57,1033.94,3.1,UPI
+ORD10378,2024-11-03,CUST1131,Customer_18,Male,47,East,Bhubaneswar,Electronics,Smartwatch,1,4888.66,0.2,3910.93,1325.23,3.7,Cash on Delivery
+ORD10379,2024-07-01,CUST1115,Customer_77,Male,44,West,Jaipur,Beauty,Face Cream,5,3316.61,0.1,14924.74,4168.83,4.5,UPI
+ORD10380,2025-09-20,CUST1218,Customer_45,Female,24,North,Delhi,Fashion,Jacket,3,4689.08,0.0,14067.24,2609.29,2.7,UPI
+ORD10381,2025-05-24,CUST1137,Customer_140,Male,37,West,Ahmedabad,Electronics,Laptop,2,1691.08,0.05,3213.05,537.96,2.7,UPI
+ORD10382,2025-12-08,CUST1106,Customer_177,Male,48,North,Delhi,Home & Kitchen,Mixer,3,3963.98,0.15,10108.15,2305.98,4.1,Cash on Delivery
+ORD10383,2025-06-29,CUST1179,Customer_222,Male,40,North,Delhi,Home & Kitchen,Cookware Set,4,3887.83,0.15,13218.62,5604.88,3.3,Credit Card
+ORD10384,2025-07-17,CUST1016,Customer_92,Male,30,East,Bhubaneswar,Sports,Cricket Bat,3,3535.36,0.1,9545.47,2379.24,,Credit Card
+ORD10385,2025-09-15,CUST1242,Customer_22,Female,34,West,Jaipur,Beauty,Face Cream,1,4836.79,0.0,4836.79,1581.19,4.6,Cash on Delivery
+ORD10386,2025-08-16,CUST1226,Customer_172,Male,21,East,Kolkata,Beauty,Shampoo,3,2119.39,0.1,5722.35,1767.0,1.1,Credit Card
+ORD10387,2024-08-14,CUST1242,Customer_92,Female,31,North,Delhi,Fashion,Jeans,4,870.91,0.1,3135.28,1364.65,4.0,Debit Card
+ORD10388,2025-03-11,CUST1141,Customer_192,Female,37,South,Mumbai,Electronics,Smartwatch,2,3440.62,0.2,5504.99,2161.71,4.0,Credit Card
+ORD10389,2025-02-25,CUST1199,Customer_77,Male,30,West,Pune,Beauty,Perfume,5,3714.22,0.1,16713.99,3557.5,4.8,Debit Card
+ORD10390,2025-07-07,CUST1112,Customer_281,Male,20,South,Bengaluru,Beauty,Shampoo,3,2981.54,0.05,8497.39,2666.59,,Debit Card
+ORD10391,2024-01-21,CUST1127,Customer_179,Female,43,West,Ahmedabad,Sports,Cricket Bat,4,1232.38,0.1,4436.57,1594.95,3.4,Debit Card
+ORD10392,2025-07-07,CUST1021,Customer_238,Female,43,East,Kolkata,Fashion,Jeans,4,2646.17,0.0,10584.68,3543.69,2.7,Cash on Delivery
+ORD10393,2025-01-31,CUST1147,Customer_135,Female,35,East,Guwahati,Fashion,Jacket,2,1732.9,0.25,2599.35,503.44,2.3,Credit Card
+ORD10394,2025-09-16,CUST1089,Customer_280,Female,49,East,Kolkata,Beauty,Perfume,1,2280.47,0.05,2166.45,488.1,1.4,Credit Card
+ORD10395,2024-04-14,CUST1203,Customer_19,Male,31,East,Guwahati,Fashion,T-Shirt,3,3314.79,0.1,8949.93,3296.31,3.3,Cash on Delivery
+ORD10396,2024-07-10,CUST1085,Customer_83,Female,20,East,Kolkata,Sports,Dumbbells,4,3789.77,0.05,14401.13,5972.86,2.9,Cash on Delivery
+ORD10397,2024-01-17,CUST1167,Customer_228,Female,18,South,Chennai,Sports,Dumbbells,2,1353.07,0.15,2300.22,861.2,1.4,Credit Card
+ORD10398,2024-04-29,CUST1072,Customer_265,Female,43,East,Kolkata,Fashion,Shoes,5,2175.3,0.15,9245.02,1606.54,3.4,Cash on Delivery
+ORD10399,2025-01-27,CUST1298,Customer_112,Female,41,North,Lucknow,Beauty,Perfume,4,1528.52,0.15,5196.97,1431.89,4.0,Cash on Delivery
+ORD10400,2025-02-28,CUST1009,Customer_251,Male,52,North,Delhi,Beauty,Makeup Kit,2,1193.5,0.05,2267.65,657.52,4.1,Debit Card
+ORD10401,2024-05-08,CUST1281,Customer_164,Male,31,South,Mumbai,Electronics,Smartphone,1,3971.09,0.05,3772.54,1022.67,4.6,Cash on Delivery
+ORD10402,2024-05-09,CUST1258,Customer_168,Male,20,West,Jaipur,Sports,Dumbbells,1,4568.95,0.0,4568.95,1554.32,2.6,Debit Card
+ORD10403,2025-07-25,CUST1275,Customer_221,Female,30,North,Chandigarh,Fashion,Shoes,4,2008.6,0.15,6829.24,1419.58,4.8,UPI
+ORD10404,2025-07-13,CUST1238,Customer_191,Female,31,West,Jaipur,Beauty,Face Cream,4,3818.57,0.0,15274.28,4475.58,4.5,Debit Card
+ORD10405,2024-01-29,CUST1020,Customer_170,Male,38,South,Bengaluru,Fashion,Shoes,3,4510.73,0.1,12178.97,5053.98,2.2,Debit Card
+ORD10406,2024-04-06,CUST1233,Customer_45,Male,43,West,Pune,Sports,Yoga Mat,2,4269.09,0.2,6830.54,2809.27,1.6,Cash on Delivery
+ORD10407,2024-01-10,CUST1221,Customer_14,Female,20,West,Jaipur,Fashion,Jeans,4,1118.36,0.2,3578.75,1034.05,2.7,Credit Card
+ORD10408,2024-08-29,CUST1017,Customer_231,Male,57,West,Jaipur,Electronics,Headphones,3,4792.39,0.1,12939.45,2187.14,2.6,UPI
+ORD10409,2024-08-19,CUST1089,Customer_157,Female,21,West,Jaipur,Sports,Football,3,2039.21,0.1,5505.87,1968.32,3.3,UPI
+ORD10410,2024-10-10,CUST1196,Customer_134,Female,53,South,Bengaluru,Electronics,Smartwatch,4,1861.39,0.0,7445.56,1408.24,3.3,UPI
+ORD10411,2025-12-15,CUST1084,Customer_37,Female,60,North,Chandigarh,Fashion,Shoes,1,546.55,0.15,464.57,102.56,4.0,Credit Card
+ORD10412,2025-12-26,CUST1087,Customer_53,Female,18,East,Kolkata,Sports,Football,2,2559.32,0.15,4350.84,1634.42,3.0,UPI
+ORD10413,2024-07-18,CUST1154,Customer_18,Female,57,West,Ahmedabad,Sports,Cricket Bat,2,767.81,0.05,1458.84,640.57,1.4,UPI
+ORD10414,2024-03-19,CUST1228,Customer_38,Female,50,North,Chandigarh,Home & Kitchen,Bedsheet,1,1430.56,0.1,1287.5,540.04,4.4,Credit Card
+ORD10415,2024-06-21,CUST1264,Customer_187,Male,24,North,Delhi,Home & Kitchen,Cookware Set,4,1755.48,0.15,5968.63,1381.45,2.2,UPI
+ORD10416,2025-04-11,CUST1223,Customer_196,Male,28,South,Chennai,Fashion,Jeans,2,4091.93,0.2,6547.09,2554.01,4.9,Cash on Delivery
+ORD10417,2025-08-03,CUST1121,Customer_243,Male,44,North,Lucknow,Fashion,Jeans,4,4408.57,0.05,16752.57,5672.73,1.5,Cash on Delivery
+ORD10418,2025-02-19,CUST1173,Customer_300,Female,31,South,Mumbai,Fashion,Jeans,4,1686.72,0.1,6072.19,1818.56,4.8,Debit Card
+ORD10419,2025-03-24,CUST1004,Customer_35,Male,39,West,Jaipur,Home & Kitchen,Mixer,3,4328.82,0.0,12986.46,3017.53,1.4,Debit Card
+ORD10420,2024-03-27,CUST1128,Customer_215,Female,33,West,Ahmedabad,Beauty,Makeup Kit,1,4321.85,0.0,4321.85,1798.02,1.9,Debit Card
+ORD10421,2024-04-10,CUST1110,Customer_219,Female,29,East,Kolkata,Beauty,Face Cream,4,3882.09,0.2,12422.69,4075.76,1.2,Cash on Delivery
+ORD10422,2024-01-08,CUST1037,Customer_90,Female,27,East,Kolkata,Beauty,Perfume,5,946.8,0.15,4023.9,1225.19,3.8,Cash on Delivery
+ORD10423,2024-07-18,CUST1071,Customer_252,Female,41,East,Kolkata,Electronics,Smartphone,1,3529.03,0.15,2999.68,863.16,4.4,Cash on Delivery
+ORD10424,2025-05-19,CUST1289,Customer_8,Male,35,North,Lucknow,Fashion,T-Shirt,2,4738.86,0.0,9477.72,1938.12,2.7,Debit Card
+ORD10425,2024-03-27,CUST1031,Customer_256,Male,39,West,Pune,Electronics,Headphones,3,3492.07,0.15,8904.78,3548.52,4.7,Debit Card
+ORD10426,2024-02-12,CUST1268,Customer_208,Male,26,South,Mumbai,Home & Kitchen,Bedsheet,2,1825.18,0.1,3285.32,682.2,3.4,Debit Card
+ORD10427,2025-01-19,CUST1011,Customer_131,Female,34,East,Kolkata,Fashion,Shoes,2,2627.75,0.05,4992.72,1208.92,3.5,Debit Card
+ORD10428,2025-09-12,CUST1032,Customer_224,Male,55,South,Chennai,Sports,Yoga Mat,1,3317.19,0.1,2985.47,845.6,4.4,Debit Card
+ORD10429,2025-03-10,CUST1057,Customer_197,Male,57,South,Bengaluru,Fashion,T-Shirt,2,2675.21,0.0,5350.42,1284.86,2.2,Debit Card
+ORD10430,2025-02-11,CUST1166,Customer_142,Male,30,East,Kolkata,Electronics,Headphones,4,819.78,0.15,2787.25,909.74,2.4,Cash on Delivery
+ORD10431,2025-04-27,CUST1188,Customer_252,Female,54,West,Ahmedabad,Electronics,Smartwatch,2,1732.3,0.1,3118.14,1273.7,4.6,Credit Card
+ORD10432,2025-10-25,CUST1019,Customer_96,Male,23,East,Guwahati,Beauty,Makeup Kit,3,4061.38,0.0,12184.14,3049.33,4.6,Credit Card
+ORD10433,2024-01-17,CUST1116,Customer_26,Female,38,South,Chennai,Home & Kitchen,Cookware Set,3,4341.74,0.0,13025.22,3811.16,4.9,Debit Card
+ORD10434,2025-10-06,CUST1184,Customer_111,Male,53,East,Guwahati,Electronics,Headphones,5,902.18,0.0,4510.9,1164.66,4.6,Credit Card
+ORD10435,2024-05-27,CUST1270,Customer_123,Female,24,South,Chennai,Electronics,Laptop,3,4773.84,0.0,14321.52,4992.49,1.5,Credit Card
+ORD10436,2024-10-03,CUST1033,Customer_186,Male,53,South,Bengaluru,Home & Kitchen,Vacuum Cleaner,2,1811.91,0.1,3261.44,580.34,4.3,Cash on Delivery
+ORD10437,2024-08-19,CUST1010,Customer_168,Male,42,East,Kolkata,Electronics,Laptop,3,3395.99,0.15,8659.77,2370.95,2.6,Debit Card
+ORD10438,2024-12-31,CUST1080,Customer_51,Male,28,North,Lucknow,Beauty,Perfume,1,3821.17,0.0,3821.17,1621.63,5.0,Debit Card
+ORD10439,2024-08-15,CUST1192,Customer_5,Female,31,East,Guwahati,Home & Kitchen,Bedsheet,3,4106.74,0.0,12320.22,3881.59,2.9,Credit Card
+ORD10440,2025-10-12,CUST1190,Customer_77,Male,46,North,Chandigarh,Electronics,Headphones,4,4742.31,0.1,17072.32,3808.72,3.2,Debit Card
+ORD10441,2025-03-11,CUST1068,Customer_160,Male,27,South,Bengaluru,Electronics,Smartphone,1,1736.37,0.15,1475.91,312.54,3.1,Debit Card
+ORD10442,2025-02-02,CUST1125,Customer_208,Female,22,South,Chennai,Sports,Cricket Bat,5,4327.91,0.05,20557.57,6200.59,2.3,Debit Card
+ORD10443,2024-07-29,CUST1059,Customer_257,Female,25,North,Delhi,Fashion,Jacket,4,875.51,0.05,3326.94,604.09,1.3,Debit Card
+ORD10444,2025-01-25,CUST1097,Customer_205,Female,22,South,Mumbai,Fashion,Jacket,2,3598.94,0.1,6478.09,2394.95,4.6,Credit Card
+ORD10445,2025-05-13,CUST1275,Customer_255,Female,41,North,Lucknow,Beauty,Makeup Kit,2,3774.39,0.05,7171.34,2343.74,4.2,UPI
+ORD10446,2025-06-23,CUST1149,Customer_11,Male,57,North,Chandigarh,Sports,Yoga Mat,2,3469.19,0.0,6938.38,1251.83,1.6,Credit Card
+ORD10447,2025-07-16,CUST1278,Customer_8,Male,43,South,Chennai,Sports,Yoga Mat,4,1448.49,0.15,4924.87,892.01,4.1,Cash on Delivery
+ORD10448,2025-05-05,CUST1265,Customer_32,Female,23,West,Jaipur,Beauty,Perfume,4,4396.95,0.1,15829.02,3866.81,3.5,UPI
+ORD10449,2025-03-17,CUST1009,Customer_28,Male,33,North,Chandigarh,Fashion,Jacket,4,1052.08,0.1,3787.49,728.36,2.6,UPI
+ORD10450,2024-09-17,CUST1283,Customer_206,Female,53,East,Guwahati,Electronics,Smartphone,1,504.77,0.15,429.05,181.65,2.0,UPI
+ORD10451,2024-12-15,CUST1273,Customer_228,Male,29,East,Guwahati,Beauty,Perfume,1,3657.96,0.15,3109.27,592.32,4.4,Credit Card
+ORD10452,2024-12-17,CUST1008,Customer_128,Female,28,South,Chennai,Home & Kitchen,Vacuum Cleaner,2,2508.51,0.05,4766.17,1686.34,3.8,Cash on Delivery
+ORD10453,2025-06-03,CUST1208,Customer_255,Male,20,West,Ahmedabad,Fashion,Jeans,3,4283.22,0.05,12207.18,4840.15,3.2,Credit Card
+ORD10454,2024-11-15,CUST1125,Customer_212,Female,54,South,Mumbai,Sports,Football,2,2071.14,0.0,4142.28,1566.56,3.4,Cash on Delivery
+ORD10455,2024-05-17,CUST1123,Customer_239,Female,23,West,Pune,Electronics,Smartphone,5,1049.32,0.0,5246.6,1703.1,1.4,Credit Card
+ORD10456,2025-07-03,CUST1033,Customer_207,Male,36,North,Chandigarh,Fashion,T-Shirt,1,4223.1,0.15,3589.64,1344.83,2.9,Credit Card
+ORD10457,2025-09-14,CUST1001,Customer_283,Male,35,North,Delhi,Electronics,Headphones,4,2857.32,0.2,9143.42,3235.21,1.8,Credit Card
+ORD10458,2025-01-02,CUST1204,Customer_245,Male,33,North,Lucknow,Fashion,Shoes,1,1148.68,0.25,861.51,352.79,1.8,UPI
+ORD10459,2024-08-07,CUST1006,Customer_45,Female,40,North,Delhi,Electronics,Smartphone,4,3671.82,0.1,13218.55,4773.84,3.6,Credit Card
+ORD10460,2024-12-02,CUST1297,Customer_105,Male,60,East,Guwahati,Electronics,Laptop,5,2677.79,0.0,13388.95,3726.34,4.6,Cash on Delivery
+ORD10461,2024-08-10,CUST1005,Customer_281,Female,54,East,Kolkata,Electronics,Smartwatch,5,3120.49,0.0,15602.45,4952.9,2.6,Cash on Delivery
+ORD10462,2025-10-09,CUST1080,Customer_234,Male,26,South,Bengaluru,Home & Kitchen,Cookware Set,1,2439.27,0.15,2073.38,717.36,1.8,Cash on Delivery
+ORD10463,2024-12-25,CUST1274,Customer_189,Male,20,West,Pune,Beauty,Perfume,4,4186.37,0.1,15070.93,3407.0,3.6,UPI
+ORD10464,2024-11-24,CUST1177,Customer_44,Female,25,North,Delhi,Home & Kitchen,Cookware Set,5,4190.42,0.1,18856.89,3430.95,4.5,Credit Card
+ORD10465,2025-04-07,CUST1136,Customer_225,Female,55,North,Delhi,Sports,Yoga Mat,2,3619.6,0.15,6153.32,1371.96,4.0,Credit Card
+ORD10466,2025-07-14,CUST1025,Customer_142,Male,21,West,Ahmedabad,Fashion,Shoes,2,750.66,0.15,1276.12,447.15,4.5,Debit Card
+ORD10467,2025-01-16,CUST1183,Customer_136,Female,29,West,Pune,Fashion,Jacket,4,4234.56,0.15,14397.5,3263.44,3.1,UPI
+ORD10468,2025-08-12,CUST1168,Customer_176,Female,48,South,Bengaluru,Sports,Yoga Mat,1,3437.31,0.0,3437.31,1390.07,4.0,Cash on Delivery
+ORD10469,2025-09-08,CUST1178,Customer_142,Male,42,West,Jaipur,Electronics,Smartphone,5,3560.86,0.15,15133.66,6218.49,1.6,Cash on Delivery
+ORD10470,2024-06-17,CUST1095,Customer_80,Female,33,North,Delhi,Sports,Dumbbells,1,1974.17,0.2,1579.34,546.94,2.4,Credit Card
+ORD10471,2024-08-04,CUST1033,Customer_82,Male,59,North,Chandigarh,Electronics,Smartwatch,2,4426.58,0.05,8410.5,1746.77,2.6,Cash on Delivery
+ORD10472,2025-01-12,CUST1111,Customer_135,Male,31,North,Chandigarh,Sports,Cricket Bat,5,3695.52,0.1,16629.84,6254.41,3.0,Credit Card
+ORD10473,2024-04-28,CUST1146,Customer_207,Female,30,North,Delhi,Electronics,Headphones,1,784.8,0.05,745.56,321.35,4.7,Credit Card
+ORD10474,2024-07-08,CUST1231,Customer_177,Male,58,North,Lucknow,Sports,Dumbbells,3,2186.95,0.25,4920.64,2019.86,4.5,Debit Card
+ORD10475,2025-01-04,CUST1272,Customer_243,Female,24,South,Bengaluru,Fashion,Jacket,4,4460.31,0.0,17841.24,3432.24,1.5,UPI
+ORD10476,2024-05-28,CUST1038,Customer_55,Male,29,North,Delhi,Sports,Football,4,474.18,0.1,1707.05,443.6,1.7,Credit Card
+ORD10477,2025-11-06,CUST1135,Customer_141,Female,54,South,Chennai,Electronics,Smartwatch,3,4816.73,0.0,14450.19,5404.94,2.4,Credit Card
+ORD10478,2025-10-13,CUST1235,Customer_56,Female,21,North,Chandigarh,Home & Kitchen,Vacuum Cleaner,2,3476.02,0.15,5909.23,1674.74,2.2,Credit Card
+ORD10479,2025-05-02,CUST1160,Customer_15,Female,19,East,Bhubaneswar,Sports,Cricket Bat,5,3249.04,0.0,16245.2,4739.15,3.5,Debit Card
+ORD10480,2025-01-08,CUST1038,Customer_185,Female,52,East,Guwahati,Fashion,T-Shirt,4,1535.16,0.05,5833.61,1478.06,4.6,Credit Card
+ORD10481,2025-11-23,CUST1150,Customer_88,Female,20,East,Guwahati,Home & Kitchen,Mixer,3,1431.76,0.1,3865.75,1469.15,4.8,UPI
+ORD10482,2024-06-08,CUST1029,Customer_97,Male,21,East,Kolkata,Home & Kitchen,Mixer,3,4724.78,0.2,11339.47,2162.2,3.6,UPI
+ORD10483,2024-12-16,CUST1144,Customer_144,Male,55,South,Mumbai,Fashion,T-Shirt,2,1666.79,0.05,3166.9,1131.18,4.4,Cash on Delivery
+ORD10484,2024-10-14,CUST1076,Customer_8,Female,29,South,Bengaluru,Home & Kitchen,Vacuum Cleaner,2,3933.65,0.0,7867.3,1902.0,3.1,UPI
+ORD10485,2024-10-14,CUST1145,Customer_215,Male,36,West,Jaipur,Home & Kitchen,Bedsheet,1,2117.33,0.15,1799.73,801.17,1.8,Cash on Delivery
+ORD10486,2024-08-13,CUST1229,Customer_173,Female,27,North,Lucknow,Sports,Football,4,911.46,0.1,3281.26,1109.73,3.1,UPI
+ORD10487,2025-06-06,CUST1064,Customer_223,Female,18,East,Guwahati,Electronics,Laptop,1,300.9,0.2,240.72,82.92,3.2,Cash on Delivery
+ORD10488,2025-06-05,CUST1269,Customer_40,Male,34,South,Bengaluru,Fashion,Jeans,3,2835.22,0.0,8505.66,2440.74,4.0,Credit Card
+ORD10489,2024-09-29,CUST1184,Customer_182,Male,33,North,Lucknow,Sports,Dumbbells,5,4884.95,0.1,21982.28,9412.35,1.9,Debit Card
+ORD10490,2025-02-05,CUST1261,Customer_270,Female,26,North,,Sports,Football,5,2003.4,0.05,9516.15,2026.56,2.5,Debit Card
+ORD10491,2024-07-01,CUST1268,Customer_187,Female,26,South,Bengaluru,Fashion,Shoes,2,1946.66,0.0,3893.32,1497.63,2.5,Debit Card
+ORD10492,2025-10-26,CUST1169,Customer_245,Female,26,East,Kolkata,Home & Kitchen,Mixer,5,1884.44,0.15,8008.87,1977.3,4.8,Credit Card
+ORD10493,2025-05-02,CUST1259,Customer_231,Female,29,West,Pune,Electronics,Smartwatch,5,2722.58,0.1,12251.61,2561.03,2.8,Debit Card
+ORD10494,2024-05-03,CUST1227,Customer_155,Female,58,North,Chandigarh,Electronics,Smartwatch,5,2343.16,0.15,9958.43,2802.67,4.0,UPI
+ORD10495,2025-09-17,CUST1033,Customer_175,Female,32,West,Jaipur,Fashion,T-Shirt,3,4429.59,0.05,12624.33,2875.0,4.0,Cash on Delivery
+ORD10496,2025-02-17,CUST1214,Customer_115,Male,19,East,Bhubaneswar,Fashion,Jacket,5,2651.22,0.1,11930.49,2999.83,2.1,Credit Card
+ORD10497,2025-12-25,CUST1050,Customer_300,Female,28,East,Kolkata,Home & Kitchen,Vacuum Cleaner,5,2661.85,0.1,11978.32,4112.65,3.3,Debit Card
+ORD10498,2024-06-20,CUST1210,Customer_18,Female,28,West,Pune,Electronics,Laptop,5,907.27,0.25,3402.26,705.43,4.6,UPI
+ORD10499,2024-10-14,CUST1029,Customer_272,Male,25,East,Bhubaneswar,Sports,Football,1,4918.01,0.05,4672.11,1689.39,2.9,UPI
+ORD10500,2025-03-10,CUST1039,Customer_12,Female,49,North,Chandigarh,Sports,Dumbbells,3,1437.37,0.05,4096.5,1141.43,4.8,Credit Card
+ORD10501,2025-11-16,CUST1100,Customer_192,Female,23,West,Pune,Home & Kitchen,Cookware Set,2,598.48,0.05,1137.11,257.42,1.9,Credit Card
+ORD10502,2024-04-22,CUST1173,Customer_232,Male,37,East,Bhubaneswar,Home & Kitchen,Bedsheet,1,3399.94,0.1,3059.95,1029.1,1.3,Debit Card
+ORD10503,2024-05-01,CUST1017,Customer_93,Female,56,West,Pune,Fashion,T-Shirt,4,3077.99,0.05,11696.36,4200.98,4.6,Cash on Delivery
+ORD10504,2025-06-27,CUST1056,Customer_218,Male,52,North,Chandigarh,Beauty,Shampoo,3,2221.94,0.2,5332.66,1664.84,4.4,Debit Card
+ORD10505,2024-08-09,CUST1226,Customer_278,Female,25,East,Bhubaneswar,Home & Kitchen,Cookware Set,3,2255.41,0.05,6427.92,1315.22,5.0,Debit Card
+ORD10506,2025-09-22,CUST1046,Customer_29,Male,60,North,Chandigarh,Electronics,Headphones,4,3979.05,0.2,12732.96,2177.64,3.7,Credit Card
+ORD10507,2024-02-08,CUST1067,Customer_77,Male,51,East,Kolkata,Sports,Yoga Mat,4,1179.64,0.0,4718.56,1351.75,4.7,Debit Card
+ORD10508,2025-05-11,CUST1197,Customer_9,Male,36,South,Bengaluru,Beauty,Shampoo,4,4146.2,0.15,14097.08,3546.26,4.3,Debit Card
+ORD10509,2024-08-20,CUST1142,Customer_24,Female,24,East,Kolkata,Sports,Dumbbells,2,3331.55,0.2,5330.48,954.25,4.4,Cash on Delivery
+ORD10510,2025-06-13,CUST1023,Customer_15,Female,48,West,Pune,Beauty,Makeup Kit,5,2240.11,0.0,11200.55,4709.11,3.3,UPI
+ORD10511,2024-05-28,CUST1094,Customer_164,Male,35,East,Bhubaneswar,Home & Kitchen,Vacuum Cleaner,3,2425.64,0.25,5457.69,2075.98,2.5,UPI
+ORD10512,2025-01-31,CUST1242,Customer_13,Male,57,North,Chandigarh,Fashion,T-Shirt,5,1469.07,0.1,6610.82,1568.95,4.7,Cash on Delivery
+ORD10513,2025-10-22,CUST1237,Customer_172,Female,31,North,Delhi,Sports,Cricket Bat,5,3822.54,0.2,15290.16,3102.02,2.7,UPI
+ORD10514,2025-09-29,CUST1054,Customer_200,Female,56,East,Kolkata,Sports,Dumbbells,4,2686.16,0.15,9132.94,1761.66,3.2,Debit Card
+ORD10515,2024-10-28,CUST1138,Customer_76,Female,53,West,Jaipur,Electronics,Smartphone,2,1774.06,0.05,3370.71,1097.06,2.8,Cash on Delivery
+ORD10516,2024-12-25,CUST1272,Customer_164,Female,34,South,Mumbai,Electronics,Smartwatch,1,3081.24,0.0,3081.24,1303.97,3.3,Cash on Delivery
+ORD10517,2024-08-25,CUST1041,Customer_61,Female,54,West,Jaipur,Fashion,Shoes,2,4979.74,0.05,9461.51,3015.06,2.9,Credit Card
+ORD10518,2025-10-08,CUST1098,Customer_245,Male,26,South,Chennai,Beauty,Shampoo,5,2317.5,0.0,11587.5,4412.28,1.2,UPI
+ORD10519,2025-10-24,CUST1183,Customer_155,Female,37,North,Lucknow,Sports,Cricket Bat,2,4623.28,0.0,9246.56,3353.18,4.5,Credit Card
+ORD10520,2024-08-23,CUST1128,Customer_257,Male,45,West,Ahmedabad,Electronics,Smartphone,4,1888.83,0.0,7555.32,1649.48,2.8,Debit Card
+ORD10521,2024-07-21,CUST1229,Customer_244,Female,37,South,Bengaluru,Home & Kitchen,Mixer,1,509.98,0.1,458.98,196.14,3.4,Cash on Delivery
+ORD10522,2024-09-12,CUST1086,Customer_162,Male,58,East,Kolkata,Fashion,Jeans,4,1220.15,0.15,4148.51,836.86,1.6,Debit Card
+ORD10523,2025-08-20,CUST1256,Customer_68,Male,53,North,Lucknow,Sports,Dumbbells,1,2238.8,0.0,2238.8,720.22,1.0,UPI
+ORD10524,2025-10-23,CUST1209,Customer_277,Female,44,East,Bhubaneswar,Beauty,Makeup Kit,5,1293.27,0.0,6466.35,1753.55,2.0,Credit Card
+ORD10525,2024-08-22,CUST1215,Customer_161,Male,25,North,Chandigarh,Beauty,Perfume,1,251.08,0.1,225.97,95.61,3.8,UPI
+ORD10526,2024-12-10,CUST1100,Customer_259,Male,49,West,Ahmedabad,Fashion,Jacket,1,4596.26,0.0,4596.26,1603.14,1.4,Debit Card
+ORD10527,2025-06-17,CUST1049,Customer_95,Male,18,West,Ahmedabad,Fashion,T-Shirt,1,4258.43,0.0,4258.43,1801.7,4.6,Credit Card
+ORD10528,2025-04-10,CUST1201,Customer_246,Male,34,North,Chandigarh,Electronics,Smartphone,2,3775.89,0.0,7551.78,1219.89,1.9,UPI
+ORD10529,2025-06-24,CUST1258,Customer_221,Female,26,North,Lucknow,Electronics,Smartwatch,2,1047.12,0.2,1675.39,348.18,1.8,Debit Card
+ORD10530,2024-07-31,CUST1178,Customer_123,Male,37,North,Lucknow,Sports,Yoga Mat,5,821.73,0.15,3492.35,1090.0,1.7,UPI
+ORD10531,2025-04-07,CUST1245,Customer_187,Female,49,West,Jaipur,Beauty,Shampoo,1,571.12,0.05,542.56,207.76,1.1,Cash on Delivery
+ORD10532,2025-03-11,CUST1123,Customer_262,Male,19,South,Chennai,Sports,Cricket Bat,3,3689.14,0.15,9407.31,1598.9,4.1,Credit Card
+ORD10533,2024-10-09,CUST1171,Customer_273,Female,49,East,Kolkata,Sports,Dumbbells,5,4661.84,0.1,20978.28,7271.51,4.5,Credit Card
+ORD10534,2025-07-15,CUST1136,Customer_60,Female,26,East,Guwahati,Home & Kitchen,Cookware Set,1,2295.05,0.15,1950.79,783.64,3.5,Credit Card
+ORD10535,2025-08-29,CUST1059,Customer_125,Female,47,West,Ahmedabad,Beauty,Shampoo,1,815.92,0.15,693.53,194.92,1.8,Cash on Delivery
+ORD10536,2025-04-07,CUST1193,Customer_51,Male,37,East,Guwahati,Sports,Football,2,2683.87,0.1,4830.97,806.13,2.1,Credit Card
+ORD10537,2025-02-10,CUST1268,Customer_178,Female,55,North,Delhi,Beauty,Perfume,5,1906.95,0.05,9058.01,4065.7,2.9,Cash on Delivery
+ORD10538,2024-03-28,CUST1260,Customer_139,Female,18,South,Bengaluru,Electronics,Laptop,1,2030.42,0.0,2030.42,768.64,4.8,Credit Card
+ORD10539,2024-02-13,CUST1095,Customer_170,Male,22,East,Guwahati,Fashion,Jacket,1,3201.32,0.1,2881.19,485.38,2.0,UPI
+ORD10540,2025-04-05,CUST1125,Customer_39,Female,52,South,Chennai,Electronics,Headphones,5,3663.91,0.2,14655.64,5842.83,3.9,UPI
+ORD10541,2024-10-04,CUST1041,Customer_69,Male,53,North,Lucknow,Sports,Yoga Mat,3,775.37,0.1,2093.5,870.95,2.8,UPI
+ORD10542,2025-11-13,CUST1254,Customer_236,Male,18,East,Bhubaneswar,Home & Kitchen,Mixer,5,419.05,0.15,1780.96,496.79,2.2,UPI
+ORD10543,2025-02-24,CUST1007,Customer_48,Female,31,West,Ahmedabad,Electronics,Smartphone,5,4973.07,0.25,18649.01,3570.29,2.8,Cash on Delivery
+ORD10544,2025-12-01,CUST1216,Customer_57,Male,26,South,Mumbai,Home & Kitchen,Vacuum Cleaner,3,1355.46,0.0,4066.38,1247.84,1.3,Debit Card
+ORD10545,2024-12-18,CUST1069,Customer_277,Male,47,North,Chandigarh,Home & Kitchen,Cookware Set,5,505.69,0.15,2149.18,325.88,4.2,Debit Card
+ORD10546,2025-11-26,CUST1069,Customer_99,Male,41,South,Bengaluru,Fashion,T-Shirt,1,1151.91,0.15,979.12,241.11,2.0,UPI
+ORD10547,2025-05-29,CUST1081,Customer_15,Female,21,East,Guwahati,Electronics,Smartwatch,5,435.05,0.25,1631.44,697.89,3.9,Debit Card
+ORD10548,2025-12-03,CUST1030,Customer_179,Male,31,East,Bhubaneswar,Home & Kitchen,Bedsheet,3,2111.1,0.25,4749.97,722.71,1.3,Debit Card
+ORD10549,2025-09-21,CUST1073,Customer_62,Male,42,West,,Fashion,Jeans,4,4061.41,0.15,13808.79,4524.2,4.8,Credit Card
+ORD10550,2024-01-19,CUST1262,Customer_119,Male,21,North,Lucknow,Beauty,Perfume,5,1870.91,0.05,8886.82,3232.84,1.8,Cash on Delivery
+ORD10551,2024-01-23,CUST1089,Customer_37,Female,42,North,Chandigarh,Fashion,Jacket,2,2359.87,0.15,4011.78,1133.87,4.5,UPI
+ORD10552,2025-02-16,CUST1208,Customer_134,Male,27,West,Pune,Sports,Yoga Mat,1,3459.04,0.0,3459.04,1240.78,4.2,Debit Card
+ORD10553,2024-01-30,CUST1213,Customer_26,Female,52,West,Pune,Home & Kitchen,Mixer,1,2667.25,0.15,2267.16,961.42,4.9,Debit Card
+ORD10554,2024-04-17,CUST1266,Customer_8,Male,24,North,Chandigarh,Home & Kitchen,Vacuum Cleaner,2,4341.87,0.2,6946.99,3123.17,2.9,UPI
+ORD10555,2025-01-01,CUST1293,Customer_4,Female,59,South,Mumbai,Sports,Yoga Mat,2,4363.67,0.05,8290.97,2612.69,3.9,Credit Card
+ORD10556,2024-10-07,CUST1207,Customer_21,Female,30,South,Chennai,Fashion,Jeans,5,297.08,0.1,1336.86,265.96,2.5,UPI
+ORD10557,2024-05-07,CUST1077,Customer_149,Female,21,West,Jaipur,Electronics,Smartwatch,2,3945.72,0.1,7102.3,1976.61,1.7,Credit Card
+ORD10558,2024-08-16,CUST1288,Customer_25,Male,60,South,Bengaluru,Electronics,Headphones,4,2438.48,0.1,8778.53,1318.87,2.8,Debit Card
+ORD10559,2024-04-20,CUST1047,Customer_143,Male,53,North,Delhi,Beauty,Makeup Kit,3,4946.99,0.05,14098.92,5131.25,1.7,Cash on Delivery
+ORD10560,2024-05-15,CUST1110,Customer_245,Male,31,East,Kolkata,Home & Kitchen,Cookware Set,2,2545.35,0.15,4327.09,1583.12,4.9,Credit Card
+ORD10561,2024-12-27,CUST1200,Customer_43,Female,35,East,Guwahati,Home & Kitchen,Cookware Set,2,4937.76,0.2,7900.42,3176.56,1.4,Credit Card
+ORD10562,2024-07-04,CUST1210,Customer_293,Male,25,South,Bengaluru,Electronics,Smartwatch,4,3834.2,0.2,12269.44,4917.36,3.4,UPI
+ORD10563,2025-10-17,CUST1154,Customer_185,Male,49,West,Pune,Electronics,Smartwatch,1,1430.87,0.0,1430.87,521.47,3.5,Debit Card
+ORD10564,2025-08-06,CUST1010,Customer_42,Female,44,West,Ahmedabad,Electronics,Smartphone,1,2807.38,0.2,2245.9,476.46,3.2,Cash on Delivery
+ORD10565,2024-05-08,CUST1157,Customer_92,Male,59,West,Pune,Fashion,Jeans,5,4962.64,0.15,21091.22,3759.99,3.6,UPI
+ORD10566,2024-09-17,CUST1261,Customer_53,Male,54,West,Jaipur,Home & Kitchen,Vacuum Cleaner,4,4323.27,0.05,16428.43,2587.05,1.5,UPI
+ORD10567,2025-05-29,CUST1077,Customer_84,Female,40,West,Jaipur,Fashion,Jacket,3,712.49,0.0,2137.47,812.91,3.2,Cash on Delivery
+ORD10568,2025-03-24,CUST1257,Customer_34,Female,24,South,Bengaluru,Fashion,Jeans,3,3605.27,0.05,10275.02,1907.15,2.1,Debit Card
+ORD10569,2024-04-13,CUST1131,Customer_76,Male,29,East,Guwahati,Sports,Dumbbells,4,1891.5,0.2,6052.8,2127.7,4.8,Cash on Delivery
+ORD10570,2025-04-27,CUST1067,Customer_197,Female,42,East,Kolkata,Fashion,T-Shirt,3,283.17,0.1,764.56,318.17,4.0,UPI
+ORD10571,2024-08-11,CUST1228,Customer_286,Male,20,South,Chennai,Fashion,Jeans,1,2166.53,0.15,1841.55,348.04,4.9,UPI
+ORD10572,2025-05-05,CUST1163,Customer_88,Male,43,West,Ahmedabad,Beauty,Face Cream,3,1365.08,0.05,3890.48,1008.29,1.2,Credit Card
+ORD10573,2025-04-17,CUST1015,Customer_235,Male,21,South,Bengaluru,Fashion,T-Shirt,3,4139.63,0.15,10556.06,4228.55,2.1,Cash on Delivery
+ORD10574,2024-01-10,CUST1232,Customer_232,Male,59,East,Bhubaneswar,Home & Kitchen,Mixer,4,1852.32,0.0,7409.28,2378.75,1.8,Cash on Delivery
+ORD10575,2025-02-08,CUST1195,Customer_7,Male,53,North,Delhi,Sports,Yoga Mat,4,4180.74,0.05,15886.81,5779.98,1.0,Cash on Delivery
+ORD10576,2024-10-28,CUST1030,Customer_292,Female,32,South,Mumbai,Sports,Cricket Bat,3,252.84,0.1,682.67,156.31,2.0,UPI
+ORD10577,2024-08-18,CUST1296,Customer_38,Female,49,West,Pune,Electronics,Smartphone,2,1712.14,0.0,3424.28,1075.14,3.7,Debit Card
+ORD10578,2025-12-31,CUST1220,Customer_52,Male,46,East,Kolkata,Sports,Yoga Mat,4,1395.53,0.15,4744.8,726.98,1.9,UPI
+ORD10579,2024-03-06,CUST1147,Customer_143,Female,27,East,Kolkata,Fashion,Jacket,5,1359.44,0.05,6457.34,2799.75,3.0,Credit Card
+ORD10580,2024-04-21,CUST1259,Customer_221,Female,38,East,Guwahati,Electronics,Laptop,5,573.89,0.15,2439.03,837.8,4.6,UPI
+ORD10581,2024-01-13,CUST1292,Customer_240,Male,33,East,Kolkata,Fashion,Jeans,1,1138.84,0.1,1024.96,313.05,3.8,UPI
+ORD10582,2025-01-27,CUST1299,Customer_143,Female,36,West,Pune,Sports,Football,3,2888.86,0.1,7799.92,2332.64,2.6,UPI
+ORD10583,2025-05-14,CUST1143,Customer_49,Female,46,North,Lucknow,Fashion,Jeans,2,1633.97,0.0,3267.94,1160.84,2.5,Credit Card
+ORD10584,2025-08-20,CUST1235,Customer_277,Male,35,East,Kolkata,Fashion,Jeans,1,2232.63,0.0,2232.63,516.25,2.8,Cash on Delivery
+ORD10585,2024-08-21,CUST1115,Customer_271,Male,33,South,Bengaluru,Home & Kitchen,Bedsheet,3,2040.12,0.2,4896.29,918.43,1.7,Debit Card
+ORD10586,2025-08-24,CUST1090,Customer_14,Male,18,North,Delhi,Electronics,Laptop,4,4410.55,0.05,16760.09,2822.13,3.5,Debit Card
+ORD10587,2024-11-09,CUST1208,Customer_298,Male,19,East,Kolkata,Electronics,Laptop,5,4550.17,0.15,19338.22,4031.48,2.5,
+ORD10588,2025-07-19,CUST1164,Customer_15,Male,32,North,Chandigarh,Electronics,Laptop,2,2591.55,0.25,3887.32,757.35,4.4,Cash on Delivery
+ORD10589,2024-01-12,CUST1084,Customer_234,Male,56,South,Bengaluru,Electronics,Laptop,5,1818.24,0.05,8636.64,2460.03,4.0,Cash on Delivery
+ORD10590,2024-07-27,CUST1077,Customer_63,Male,45,East,Bhubaneswar,Electronics,Headphones,4,757.3,0.05,2877.74,581.98,3.4,Credit Card
+ORD10591,2024-01-14,CUST1161,Customer_196,Female,18,South,Bengaluru,Electronics,Laptop,3,4778.66,0.15,12185.58,4374.0,2.5,UPI
+ORD10592,2025-09-24,CUST1005,Customer_27,Male,22,West,Pune,Home & Kitchen,Cookware Set,4,536.08,0.25,1608.24,531.45,1.8,Cash on Delivery
+ORD10593,2025-02-21,CUST1078,Customer_93,Female,59,East,Bhubaneswar,Electronics,Headphones,4,1663.84,0.2,5324.29,1889.73,4.1,Debit Card
+ORD10594,2025-03-12,CUST1091,Customer_105,Female,39,East,Bhubaneswar,Fashion,Jacket,5,1665.81,0.1,7496.14,2322.18,2.9,Credit Card
+ORD10595,2025-01-11,CUST1087,Customer_52,Male,53,East,Guwahati,Sports,Yoga Mat,2,1771.91,0.15,3012.25,1097.44,1.9,Debit Card
+ORD10596,2024-01-20,CUST1270,Customer_181,Female,30,East,Bhubaneswar,Fashion,Jacket,4,1030.36,0.0,4121.44,665.68,1.8,UPI
+ORD10597,2025-08-09,CUST1104,Customer_57,Female,18,West,Ahmedabad,Home & Kitchen,Bedsheet,5,3970.02,0.25,14887.58,5302.16,1.7,Credit Card
+ORD10598,2024-03-10,CUST1175,Customer_120,Female,33,East,Guwahati,Electronics,Smartphone,2,831.86,0.25,1247.79,524.8,4.1,Debit Card
+ORD10599,2024-07-29,CUST1054,Customer_43,Male,58,North,Lucknow,Electronics,Headphones,3,3265.81,0.0,9797.43,2860.41,1.9,Debit Card
+ORD10600,2024-04-10,CUST1211,Customer_135,Female,39,East,Kolkata,Electronics,Headphones,3,838.27,0.05,2389.07,1034.16,3.1,UPI
+ORD10601,2025-11-28,CUST1095,Customer_260,Female,49,West,Jaipur,Electronics,Laptop,1,585.04,0.0,585.04,243.87,2.8,Credit Card
+ORD10602,2024-05-11,CUST1223,Customer_197,Male,33,East,Kolkata,Electronics,Smartphone,5,4569.79,0.05,21706.5,8339.27,3.3,Cash on Delivery
+ORD10603,2025-09-14,CUST1009,Customer_133,Female,32,North,Lucknow,Electronics,Laptop,2,1153.11,0.15,1960.29,609.05,4.5,Cash on Delivery
+ORD10604,2025-01-15,CUST1053,Customer_255,Female,59,West,Jaipur,Electronics,Smartphone,4,4150.94,0.05,15773.57,5047.93,4.5,Debit Card
+ORD10605,2024-05-11,CUST1077,Customer_220,Female,29,West,Pune,Electronics,Headphones,3,2837.0,0.0,8511.0,1788.1,2.8,UPI
+ORD10606,2024-01-20,CUST1206,Customer_41,Female,18,North,Lucknow,Fashion,Shoes,2,619.82,0.05,1177.66,268.69,1.1,Debit Card
+ORD10607,2025-06-19,CUST1112,Customer_255,Female,34,North,Delhi,Electronics,Smartwatch,5,4788.38,0.25,17956.43,5783.85,2.7,UPI
+ORD10608,2024-08-14,CUST1165,Customer_2,Male,58,North,Lucknow,Fashion,T-Shirt,1,1423.07,0.1,1280.76,448.12,3.4,Cash on Delivery
+ORD10609,2024-06-02,CUST1279,Customer_195,Female,45,North,Chandigarh,Fashion,Jeans,3,4333.32,0.1,11699.96,4154.18,3.2,Debit Card
+ORD10610,2025-04-13,CUST1027,Customer_242,Male,24,North,Lucknow,Home & Kitchen,Vacuum Cleaner,2,1051.85,0.0,2103.7,458.19,3.6,Debit Card
+ORD10611,2025-02-08,CUST1070,Customer_149,Female,26,West,Pune,Electronics,Smartwatch,2,4306.23,0.25,6459.34,2805.8,1.6,UPI
+ORD10612,2024-07-20,CUST1218,Customer_198,Male,39,West,Jaipur,Beauty,Makeup Kit,2,312.84,0.15,531.83,237.28,3.6,Credit Card
+ORD10613,2024-02-07,CUST1189,Customer_299,Male,43,East,Kolkata,Home & Kitchen,Cookware Set,5,2680.96,0.05,12734.56,2691.28,1.7,UPI
+ORD10614,2024-07-06,CUST1124,Customer_245,Male,29,East,Kolkata,Electronics,Smartwatch,5,3904.85,0.0,19524.25,5991.13,4.0,Credit Card
+ORD10615,2024-02-26,CUST1019,Customer_108,Female,24,South,Bengaluru,Sports,Cricket Bat,5,4690.28,0.0,23451.4,9632.33,2.4,Cash on Delivery
+ORD10616,2024-01-20,CUST1257,Customer_212,Female,32,East,Bhubaneswar,Sports,Dumbbells,4,4568.71,0.0,18274.84,6932.2,3.8,Debit Card
+ORD10617,2024-09-29,CUST1296,Customer_156,Female,55,East,Kolkata,Electronics,Laptop,2,4143.22,0.1,7457.8,1269.68,1.2,Debit Card
+ORD10618,2024-04-28,CUST1022,Customer_26,Female,38,North,Lucknow,Electronics,Headphones,3,4468.91,0.2,10725.38,2060.87,2.6,UPI
+ORD10619,2025-08-05,CUST1040,Customer_82,Female,31,North,Delhi,Beauty,Perfume,5,1196.29,0.1,5383.3,1276.19,3.8,
+ORD10620,2025-05-30,CUST1038,Customer_83,Male,19,East,Kolkata,Beauty,Perfume,5,1599.88,0.15,6799.49,2076.1,1.9,Cash on Delivery
+ORD10621,2024-08-08,CUST1048,Customer_131,Male,25,South,Chennai,Electronics,Headphones,2,1622.6,0.1,2920.68,858.4,4.2,Cash on Delivery
+ORD10622,2025-06-09,CUST1183,Customer_100,Male,23,North,Lucknow,Electronics,Headphones,5,2041.01,0.15,8674.29,1365.56,3.5,Credit Card
+ORD10623,2025-05-29,CUST1075,Customer_256,Female,54,East,Guwahati,Fashion,Jacket,4,2118.27,0.15,7202.12,1154.28,3.4,Cash on Delivery
+ORD10624,2025-12-28,CUST1209,Customer_49,Female,54,East,Guwahati,Fashion,Jacket,4,2836.64,0.0,11346.56,4373.18,2.4,Cash on Delivery
+ORD10625,2024-12-01,CUST1183,Customer_63,Male,50,West,Pune,Home & Kitchen,Vacuum Cleaner,5,1009.43,0.05,4794.79,990.93,2.9,Cash on Delivery
+ORD10626,2025-11-28,CUST1107,Customer_290,Female,58,South,Mumbai,Fashion,Jeans,2,3533.42,0.1,6360.16,2485.72,3.4,Cash on Delivery
+ORD10627,2024-02-24,CUST1188,Customer_105,Female,23,West,Ahmedabad,Fashion,Jeans,2,1045.94,0.0,2091.88,807.34,2.9,Credit Card
+ORD10628,2025-05-14,CUST1264,Customer_105,Male,43,South,Mumbai,Beauty,Shampoo,2,1723.97,0.05,3275.54,809.62,3.8,Cash on Delivery
+ORD10629,2025-06-19,CUST1086,Customer_15,Male,56,North,Lucknow,Electronics,Laptop,1,2640.89,0.1,2376.8,780.78,2.7,Credit Card
+ORD10630,2024-06-10,CUST1137,Customer_175,Female,58,South,Bengaluru,Electronics,Headphones,5,4033.09,0.25,15124.09,2579.21,1.8,UPI
+ORD10631,2025-10-31,CUST1095,Customer_259,Female,54,East,Guwahati,Beauty,Perfume,2,3762.48,0.1,6772.46,2866.76,1.9,Debit Card
+ORD10632,2025-08-16,CUST1245,Customer_211,Male,31,East,Kolkata,Sports,Football,4,3316.29,0.15,11275.39,3343.63,1.0,UPI
+ORD10633,2024-06-07,CUST1090,Customer_259,Female,54,South,Bengaluru,Fashion,T-Shirt,3,989.92,0.1,2672.78,466.25,2.2,Cash on Delivery
+ORD10634,2024-07-06,CUST1059,Customer_102,Male,25,South,Chennai,Home & Kitchen,Vacuum Cleaner,3,2848.47,0.15,7263.6,1298.48,4.0,Debit Card
+ORD10635,2024-02-29,CUST1028,Customer_260,Male,56,South,Bengaluru,Electronics,Laptop,2,665.37,0.1,1197.67,482.71,4.2,Cash on Delivery
+ORD10636,2024-11-14,CUST1072,Customer_159,Male,30,West,Ahmedabad,Fashion,Jeans,3,2042.48,0.2,4901.95,1666.71,1.8,Cash on Delivery
+ORD10637,2024-07-29,CUST1270,Customer_45,Female,30,South,Mumbai,Home & Kitchen,Bedsheet,3,2214.2,0.1,5978.34,1579.86,4.8,UPI
+ORD10638,2025-02-09,CUST1024,Customer_251,Male,57,North,Lucknow,Electronics,Laptop,1,439.1,0.1,395.19,158.94,3.0,Cash on Delivery
+ORD10639,2025-10-25,CUST1112,Customer_165,Male,60,West,Ahmedabad,Electronics,Laptop,4,1551.44,0.1,5585.18,891.36,4.7,UPI
+ORD10640,2024-04-18,CUST1300,Customer_193,Female,45,West,Ahmedabad,Fashion,Jacket,4,4789.33,0.1,17241.59,3027.2,3.8,Cash on Delivery
+ORD10641,2024-03-16,CUST1056,Customer_9,Male,35,South,Chennai,Electronics,Headphones,1,4779.75,0.0,4779.75,1911.49,3.9,Credit Card
+ORD10642,2025-06-25,CUST1223,Customer_65,Female,36,North,Chandigarh,Fashion,Jacket,1,1923.55,0.0,1923.55,795.68,1.3,Debit Card
+ORD10643,2024-11-09,CUST1120,Customer_282,Female,55,West,Ahmedabad,Electronics,Smartphone,3,454.73,0.0,1364.19,578.93,1.9,UPI
+ORD10644,2024-04-26,CUST1179,Customer_181,Female,49,East,Bhubaneswar,Fashion,T-Shirt,5,1100.7,0.2,4402.8,780.03,1.0,UPI
+ORD10645,2025-12-04,CUST1288,Customer_282,Male,39,West,,Electronics,Smartphone,3,2113.03,0.05,6022.14,2360.15,3.9,Debit Card
+ORD10646,2024-01-19,CUST1281,Customer_279,Male,19,South,Chennai,Sports,Football,1,4751.95,0.05,4514.35,1467.68,2.4,UPI
+ORD10647,2025-03-07,CUST1189,Customer_30,Female,30,North,Lucknow,Home & Kitchen,Cookware Set,4,920.7,0.15,3130.38,987.15,4.1,Debit Card
+ORD10648,2025-11-15,CUST1066,Customer_266,Female,40,South,Chennai,Home & Kitchen,Bedsheet,3,3876.7,0.05,11048.59,2986.4,2.4,Credit Card
+ORD10649,2024-12-15,CUST1298,Customer_217,Female,42,East,Kolkata,Beauty,Perfume,5,766.24,0.1,3448.08,1477.43,4.3,Cash on Delivery
+ORD10650,2024-07-01,CUST1249,Customer_105,Male,45,East,Bhubaneswar,Fashion,Jeans,3,4910.97,0.0,14732.91,5627.57,1.5,Credit Card
+ORD10651,2024-04-22,CUST1076,Customer_184,Female,28,East,Guwahati,Electronics,Smartwatch,2,2062.68,0.25,3094.02,527.69,1.7,Cash on Delivery
+ORD10652,2024-07-01,CUST1137,Customer_148,Female,50,South,Bengaluru,Home & Kitchen,Mixer,3,3932.36,0.2,9437.66,1674.97,2.4,Debit Card
+ORD10653,2025-04-25,CUST1164,Customer_105,Female,41,West,Ahmedabad,Home & Kitchen,Vacuum Cleaner,1,1877.31,0.2,1501.85,323.82,2.6,Credit Card
+ORD10654,2024-05-25,CUST1233,Customer_47,Male,19,South,Mumbai,Beauty,Face Cream,4,3231.43,0.1,11633.15,5167.21,2.4,Cash on Delivery
+ORD10655,2025-09-19,CUST1255,Customer_87,Female,47,North,Lucknow,Fashion,Shoes,4,1162.08,0.15,3951.07,1390.37,4.1,Debit Card
+ORD10656,2024-04-22,CUST1294,Customer_129,Male,34,West,Jaipur,Electronics,Smartphone,1,943.6,0.0,943.6,246.86,1.4,Cash on Delivery
+ORD10657,2025-04-20,CUST1170,Customer_258,Male,57,East,Bhubaneswar,Fashion,Shoes,2,4705.8,0.0,9411.6,3458.23,2.4,UPI
+ORD10658,2024-10-29,CUST1174,Customer_147,Female,51,South,Chennai,Fashion,Jacket,1,4608.82,0.0,4608.82,816.33,4.3,UPI
+ORD10659,2024-04-27,CUST1018,Customer_72,Female,55,East,Bhubaneswar,Home & Kitchen,Bedsheet,3,4465.48,0.1,12056.8,3132.76,1.3,Debit Card
+ORD10660,2024-06-09,CUST1070,Customer_140,Female,39,East,Bhubaneswar,Home & Kitchen,Vacuum Cleaner,1,3220.81,0.1,2898.73,1241.9,4.8,Cash on Delivery
+ORD10661,2025-02-04,CUST1116,Customer_27,Male,22,North,Delhi,Fashion,Jeans,1,4089.27,0.1,3680.34,652.52,4.9,UPI
+ORD10662,2024-07-16,CUST1080,Customer_29,Male,57,West,Pune,Sports,Cricket Bat,2,577.93,0.0,1155.86,188.02,1.4,Credit Card
+ORD10663,2024-09-16,CUST1015,Customer_271,Male,33,North,Delhi,Home & Kitchen,Cookware Set,3,1840.25,0.1,4968.68,2120.07,2.2,Cash on Delivery
+ORD10664,2025-10-21,CUST1176,Customer_174,Female,30,North,Chandigarh,Electronics,Headphones,5,1740.09,0.15,7395.38,2146.82,2.5,Cash on Delivery
+ORD10665,2024-02-16,CUST1269,Customer_253,Male,43,North,Lucknow,Electronics,Laptop,5,3269.32,0.1,14711.94,5281.45,4.1,UPI
+ORD10666,2025-02-02,CUST1119,Customer_60,Female,48,East,Kolkata,Electronics,Smartphone,4,1940.8,0.15,6598.72,2191.75,3.4,UPI
+ORD10667,2025-12-10,CUST1299,Customer_107,Female,56,North,Lucknow,Electronics,Smartwatch,1,955.41,0.05,907.64,359.52,3.6,Debit Card
+ORD10668,2025-07-12,CUST1188,Customer_220,Female,40,North,Delhi,Electronics,Smartwatch,4,3083.22,0.15,10482.95,2899.36,4.0,Cash on Delivery
+ORD10669,2024-03-18,CUST1057,Customer_259,Male,29,West,Pune,Electronics,Smartphone,2,4118.32,0.1,7412.98,1205.4,1.5,Credit Card
+ORD10670,2024-05-03,CUST1199,Customer_146,Male,31,West,Ahmedabad,Fashion,Shoes,5,2065.09,0.05,9809.18,2933.71,4.3,UPI
+ORD10671,2024-03-15,CUST1017,Customer_52,Male,35,North,Delhi,Electronics,Headphones,1,878.28,0.05,834.37,354.71,3.8,Cash on Delivery
+ORD10672,2024-05-16,CUST1288,Customer_60,Female,44,West,Pune,Sports,Dumbbells,2,1184.27,0.1,2131.69,562.77,3.3,UPI
+ORD10673,2025-08-24,CUST1055,Customer_34,Male,45,West,Ahmedabad,Electronics,Laptop,2,1378.05,0.15,2342.68,815.1,4.6,Debit Card
+ORD10674,2025-02-03,CUST1269,Customer_96,Male,35,North,Lucknow,Fashion,Shoes,1,1674.51,0.1,1507.06,291.2,3.8,Cash on Delivery
+ORD10675,2025-05-19,CUST1087,Customer_89,Female,33,East,Kolkata,Fashion,Shoes,2,3303.28,0.05,6276.23,2005.86,1.8,Cash on Delivery
+ORD10676,2025-05-14,CUST1029,Customer_231,Female,33,North,Chandigarh,Sports,Yoga Mat,1,3104.49,0.2,2483.59,973.94,2.7,Debit Card
+ORD10677,2025-07-26,CUST1022,Customer_275,Male,30,West,Pune,Electronics,Smartphone,1,3556.38,0.15,3022.92,1187.0,3.0,Credit Card
+ORD10678,2024-05-17,CUST1285,Customer_246,Female,46,East,Bhubaneswar,Fashion,Jeans,3,1971.88,0.1,5324.08,1167.95,1.2,UPI
+ORD10679,2024-02-19,CUST1048,Customer_111,Male,26,South,Chennai,Sports,Football,4,4163.99,0.1,14990.36,5551.29,4.8,Debit Card
+ORD10680,2025-09-10,CUST1005,Customer_234,Female,43,East,Guwahati,Sports,Football,2,1219.42,0.05,2316.9,509.32,1.5,Cash on Delivery
+ORD10681,2025-09-16,CUST1250,Customer_278,Female,45,West,Ahmedabad,Beauty,Face Cream,2,2477.94,0.1,4460.29,1731.64,3.8,Debit Card
+ORD10682,2024-09-10,CUST1163,Customer_166,Male,58,East,Bhubaneswar,Electronics,Headphones,3,4054.46,0.05,11555.21,4084.7,3.0,Cash on Delivery
+ORD10683,2025-09-21,CUST1202,Customer_128,Female,30,North,Chandigarh,Electronics,Smartwatch,3,1105.75,0.25,2487.94,772.14,1.1,Debit Card
+ORD10684,2025-12-10,CUST1101,Customer_237,Female,53,South,Chennai,Home & Kitchen,Mixer,3,771.85,0.1,2084.0,348.11,4.7,Credit Card
+ORD10685,2025-07-16,CUST1071,Customer_291,Female,26,South,Mumbai,Sports,Cricket Bat,5,4447.5,0.1,20013.75,3411.96,4.4,Cash on Delivery
+ORD10686,2025-03-01,CUST1163,Customer_107,Male,31,South,Chennai,Home & Kitchen,Mixer,5,1878.92,0.1,8455.14,3280.07,3.1,Debit Card
+ORD10687,2025-06-30,CUST1173,Customer_128,Female,29,West,Ahmedabad,Home & Kitchen,Bedsheet,5,3498.38,0.2,13993.52,4793.26,1.9,Credit Card
+ORD10688,2024-10-28,CUST1141,Customer_195,Female,49,West,Ahmedabad,Electronics,Laptop,1,370.41,0.15,314.85,127.57,1.5,Credit Card
+ORD10689,2025-08-03,CUST1138,Customer_143,Male,55,South,Chennai,Beauty,Face Cream,2,3527.72,0.1,6349.9,1885.95,2.5,UPI
+ORD10690,2024-12-14,CUST1066,Customer_111,Male,20,East,Bhubaneswar,Electronics,Smartwatch,4,1751.48,0.15,5955.03,1856.93,2.0,Cash on Delivery
+ORD10691,2024-02-18,CUST1198,Customer_90,Female,33,South,Chennai,Fashion,Jacket,1,514.77,0.1,463.29,83.29,3.0,UPI
+ORD10692,2024-03-14,CUST1228,Customer_251,Female,37,East,Bhubaneswar,Fashion,T-Shirt,2,3146.61,0.1,5663.9,968.52,4.9,Credit Card
+ORD10693,2025-12-04,CUST1281,Customer_280,Female,49,East,Kolkata,Fashion,Jacket,2,1393.82,0.0,2787.64,933.66,3.3,UPI
+ORD10694,2024-09-17,CUST1172,Customer_224,Male,40,West,Pune,Electronics,Smartwatch,3,2087.33,0.1,5635.79,1704.71,4.6,UPI
+ORD10695,2024-12-21,CUST1040,Customer_101,Female,34,East,Bhubaneswar,Electronics,Smartwatch,3,632.76,0.05,1803.37,326.64,3.6,Debit Card
+ORD10696,2025-08-04,CUST1007,Customer_132,Male,33,South,Chennai,Home & Kitchen,Cookware Set,1,949.03,0.2,759.22,157.91,2.9,UPI
+ORD10697,2025-08-24,CUST1174,Customer_13,Male,55,West,Pune,Fashion,Jacket,3,1665.39,0.05,4746.36,2130.66,4.4,Credit Card
+ORD10698,2024-09-16,CUST1151,Customer_98,Female,25,North,Lucknow,Home & Kitchen,Vacuum Cleaner,2,676.36,0.25,1014.54,359.13,2.9,UPI
+ORD10699,2025-09-29,CUST1211,Customer_120,Female,36,North,Chandigarh,Electronics,Smartwatch,3,4576.42,0.1,12356.33,3996.87,4.5,Cash on Delivery
+ORD10700,2024-10-21,CUST1086,Customer_293,Male,47,West,Jaipur,Fashion,Jeans,5,278.72,0.1,1254.24,477.97,2.2,Debit Card
+ORD10701,2025-10-02,CUST1253,Customer_199,Female,51,South,Mumbai,Home & Kitchen,Mixer,3,2548.34,0.1,6880.52,2684.29,1.5,Credit Card
+ORD10702,2024-11-08,CUST1021,Customer_1,Female,31,North,Lucknow,Electronics,Headphones,2,835.43,0.0,1670.86,732.95,4.4,UPI
+ORD10703,2025-09-03,CUST1257,Customer_60,Male,39,North,Lucknow,Fashion,Jacket,1,1711.48,0.05,1625.91,417.84,3.3,Cash on Delivery
+ORD10704,2024-06-30,CUST1033,Customer_250,Female,34,East,Bhubaneswar,Electronics,Smartphone,4,4648.78,0.0,18595.12,6903.38,4.6,Credit Card
+ORD10705,2025-11-16,CUST1260,Customer_140,Male,32,East,Bhubaneswar,Electronics,Smartwatch,3,1018.05,0.1,2748.73,1193.76,4.8,UPI
+ORD10706,2024-12-29,CUST1234,Customer_149,Female,49,South,Bengaluru,Sports,Cricket Bat,2,4837.7,0.1,8707.86,3315.14,1.2,Debit Card
+ORD10707,2024-07-06,CUST1003,Customer_44,Male,30,West,Pune,Fashion,T-Shirt,4,1227.52,0.15,4173.57,874.05,3.0,UPI
+ORD10708,2025-07-22,CUST1227,Customer_186,Male,38,South,,Beauty,Shampoo,4,3772.44,0.05,14335.27,2788.97,2.5,Credit Card
+ORD10709,2025-06-26,CUST1284,Customer_108,Female,57,West,Ahmedabad,Electronics,Smartwatch,5,2846.72,0.0,14233.6,4342.39,3.5,Credit Card
+ORD10710,2025-08-18,CUST1070,Customer_44,Male,50,North,Chandigarh,Home & Kitchen,Vacuum Cleaner,4,4451.27,0.1,16024.57,5210.85,4.2,Credit Card
+ORD10711,2025-10-25,CUST1254,Customer_78,Male,44,East,Kolkata,Beauty,Shampoo,2,2881.47,0.2,4610.35,722.18,2.1,Cash on Delivery
+ORD10712,2025-07-01,CUST1144,Customer_226,Female,52,South,Mumbai,Home & Kitchen,Bedsheet,2,2789.16,0.15,4741.57,1848.41,3.2,UPI
+ORD10713,2025-12-25,CUST1024,Customer_162,Female,33,South,Mumbai,Fashion,Jeans,3,1178.43,0.1,3181.76,1226.23,3.8,UPI
+ORD10714,2025-02-11,CUST1234,Customer_281,Female,45,West,Pune,Fashion,Jacket,3,1039.59,0.1,2806.89,1017.33,1.5,UPI
+ORD10715,2025-09-09,CUST1175,Customer_253,Male,51,West,Ahmedabad,Fashion,Jeans,3,4603.32,0.0,13809.96,5498.75,4.3,Debit Card
+ORD10716,2025-02-17,CUST1159,Customer_132,Male,18,South,Mumbai,Sports,Football,4,1807.23,0.25,5421.69,1822.72,3.4,Cash on Delivery
+ORD10717,2024-12-07,CUST1286,Customer_144,Male,58,West,Ahmedabad,Beauty,Shampoo,4,2017.39,0.15,6859.13,1212.35,4.8,Cash on Delivery
+ORD10718,2024-08-07,CUST1018,Customer_266,Female,48,South,Chennai,Sports,Football,5,3859.16,0.05,18331.01,4864.97,2.4,Debit Card
+ORD10719,2024-06-11,CUST1044,Customer_109,Male,53,South,Chennai,Electronics,Headphones,3,1859.41,0.1,5020.41,1638.74,1.4,Cash on Delivery
+ORD10720,2024-08-07,CUST1155,Customer_194,Male,50,South,Mumbai,Beauty,Shampoo,1,4772.3,0.0,4772.3,809.75,3.0,Debit Card
+ORD10721,2024-09-26,CUST1231,Customer_35,Female,50,North,Lucknow,Sports,Cricket Bat,5,3755.16,0.25,14081.85,6132.09,1.3,Credit Card
+ORD10722,2025-09-23,CUST1225,Customer_275,Male,56,West,Jaipur,Electronics,Smartphone,1,3087.79,0.0,3087.79,1194.72,4.9,Credit Card
+ORD10723,2025-02-03,CUST1217,Customer_187,Female,35,East,Guwahati,Electronics,Smartwatch,4,4434.25,0.1,15963.3,4473.45,1.2,Cash on Delivery
+ORD10724,2024-06-30,CUST1056,Customer_243,Female,40,East,Kolkata,Beauty,Perfume,5,485.63,0.05,2306.74,612.06,4.0,Credit Card
+ORD10725,2025-09-09,CUST1031,Customer_264,Female,40,West,Pune,Home & Kitchen,Mixer,5,1471.05,0.15,6251.96,2739.19,3.1,Credit Card
+ORD10726,2025-12-29,CUST1059,Customer_10,Male,32,South,Chennai,Beauty,Shampoo,2,2458.92,0.15,4180.16,1375.64,2.5,Credit Card
+ORD10727,2024-07-23,CUST1235,Customer_166,Male,43,East,Bhubaneswar,Electronics,Smartwatch,4,1328.15,0.15,4515.71,1152.65,1.3,UPI
+ORD10728,2025-08-04,CUST1107,Customer_29,Male,47,East,Guwahati,Beauty,Face Cream,4,3783.55,0.1,13620.78,3276.87,3.5,Credit Card
+ORD10729,2025-07-09,CUST1191,Customer_271,Female,42,West,Pune,Electronics,Headphones,5,4616.24,0.2,18464.96,4774.26,,UPI
+ORD10730,2024-08-15,CUST1018,Customer_87,Female,33,East,Kolkata,Electronics,Smartphone,4,2262.91,0.0,9051.64,3202.75,2.1,Debit Card
+ORD10731,2025-11-26,CUST1226,Customer_23,Female,56,South,Mumbai,Electronics,Headphones,5,1875.13,0.05,8906.87,3758.2,4.6,Debit Card
+ORD10732,2025-09-10,CUST1167,Customer_210,Male,31,West,Jaipur,Beauty,Shampoo,2,4817.37,0.05,9153.0,2946.04,2.2,Debit Card
+ORD10733,2025-08-18,CUST1071,Customer_46,Male,34,South,Bengaluru,Home & Kitchen,Vacuum Cleaner,5,2363.05,0.25,8861.44,3645.36,2.8,Debit Card
+ORD10734,2024-09-06,CUST1054,Customer_28,Male,29,East,Kolkata,Fashion,Jacket,4,2572.98,0.05,9777.32,1620.23,3.2,Debit Card
+ORD10735,2025-03-16,CUST1245,Customer_26,Male,46,East,Kolkata,Fashion,Jacket,4,1920.34,0.15,6529.16,2007.38,1.4,Credit Card
+ORD10736,2025-06-16,CUST1076,Customer_266,Male,49,South,Chennai,Sports,Cricket Bat,5,4570.36,0.15,19424.03,6892.08,4.7,Credit Card
+ORD10737,2024-07-14,CUST1035,Customer_175,Female,41,North,Chandigarh,Fashion,Shoes,5,2952.54,0.05,14024.56,3086.93,2.5,Credit Card
+ORD10738,2025-11-20,CUST1267,Customer_4,Male,30,East,Guwahati,Beauty,Shampoo,5,3870.33,0.05,18384.07,5526.53,1.3,Debit Card
+ORD10739,2025-06-02,CUST1300,Customer_67,Female,37,North,Delhi,Fashion,Jacket,3,4106.08,0.05,11702.33,4177.61,2.5,Debit Card
+ORD10740,2024-03-10,CUST1121,Customer_135,Female,32,East,Bhubaneswar,Fashion,Jeans,4,1873.78,0.1,6745.61,1392.36,3.4,UPI
+ORD10741,2025-09-30,CUST1025,Customer_55,Male,21,North,Chandigarh,Fashion,Jeans,4,2310.05,0.05,8778.19,1666.58,3.1,Cash on Delivery
+ORD10742,2025-02-02,CUST1160,Customer_31,Female,51,North,Delhi,Fashion,Jeans,3,4280.24,0.0,12840.72,3185.75,3.8,Credit Card
+ORD10743,2025-11-02,CUST1084,Customer_74,Male,45,North,Chandigarh,Beauty,Perfume,5,1975.46,0.2,7901.84,3444.5,1.2,Cash on Delivery
+ORD10744,2024-07-21,CUST1114,Customer_19,Male,19,South,Bengaluru,Fashion,T-Shirt,2,4021.19,0.25,6031.78,1689.52,2.1,Debit Card
+ORD10745,2024-05-27,CUST1223,Customer_156,Female,47,North,Lucknow,Electronics,Smartphone,5,4719.71,0.05,22418.62,4954.77,4.3,Debit Card
+ORD10746,2025-04-16,CUST1166,Customer_156,Male,43,North,Delhi,Sports,Cricket Bat,5,3210.25,0.05,15248.69,6237.46,1.3,Debit Card
+ORD10747,2025-10-16,CUST1191,Customer_147,Male,43,North,Delhi,Fashion,T-Shirt,3,3772.73,0.0,11318.19,4316.74,4.4,Cash on Delivery
+ORD10748,2024-07-17,CUST1175,Customer_87,Female,37,East,Kolkata,Home & Kitchen,Mixer,4,4074.21,0.15,13852.31,2566.16,1.4,UPI
+ORD10749,2025-03-01,CUST1001,Customer_20,Female,59,North,Delhi,Sports,Cricket Bat,5,4263.94,0.15,18121.74,8045.39,4.3,Debit Card
+ORD10750,2025-10-27,CUST1229,Customer_269,Female,45,East,Kolkata,Home & Kitchen,Cookware Set,4,2126.5,0.0,8506.0,1906.89,2.4,UPI
+ORD10751,2025-05-06,CUST1086,Customer_43,Female,37,North,Chandigarh,Electronics,Smartwatch,1,493.5,0.0,493.5,151.93,3.4,UPI
+ORD10752,2024-05-21,CUST1062,Customer_28,Female,28,North,Lucknow,Sports,Yoga Mat,4,2158.91,0.15,7340.29,2319.3,1.6,Credit Card
+ORD10753,2024-11-08,CUST1206,Customer_260,Female,27,South,Mumbai,Home & Kitchen,Bedsheet,2,3450.34,0.1,6210.61,2781.55,1.3,Cash on Delivery
+ORD10754,2024-06-13,CUST1105,Customer_22,Male,40,East,Guwahati,Fashion,Jeans,2,2389.16,0.0,4778.32,975.64,1.9,Debit Card
+ORD10755,2024-11-09,CUST1291,Customer_101,Male,54,North,Lucknow,Electronics,Smartwatch,5,3807.57,0.1,17134.07,5860.75,1.5,UPI
+ORD10756,2024-01-21,CUST1250,Customer_39,Male,58,East,Bhubaneswar,Beauty,Perfume,4,1945.67,0.05,7393.55,2127.64,2.2,Cash on Delivery
+ORD10757,2024-03-22,CUST1013,Customer_290,Female,36,East,Kolkata,Home & Kitchen,Mixer,5,3265.03,0.05,15508.89,3827.75,3.1,Cash on Delivery
+ORD10758,2025-08-03,CUST1163,Customer_300,Male,35,West,Ahmedabad,Home & Kitchen,Vacuum Cleaner,3,1135.49,0.15,2895.5,692.64,3.4,Debit Card
+ORD10759,2024-05-10,CUST1043,Customer_170,Female,44,South,Mumbai,Sports,Cricket Bat,2,3809.5,0.15,6476.15,1056.95,4.2,Credit Card
+ORD10760,2025-08-21,CUST1111,Customer_296,Male,23,South,Bengaluru,Beauty,Perfume,5,2842.06,0.1,12789.27,3716.54,3.6,Credit Card
+ORD10761,2025-12-30,CUST1205,Customer_130,Female,27,South,Chennai,Electronics,Laptop,3,1219.31,0.2,2926.34,965.94,3.4,UPI
+ORD10762,2024-10-31,CUST1256,Customer_156,Male,19,West,Pune,Fashion,T-Shirt,5,1636.58,0.1,7364.61,1206.98,2.6,Credit Card
+ORD10763,2025-01-05,CUST1144,Customer_74,Female,41,West,Jaipur,Electronics,Headphones,4,3805.89,0.15,12940.03,3330.34,2.9,Credit Card
+ORD10764,2025-01-18,CUST1146,Customer_90,Female,55,South,Chennai,Beauty,Face Cream,4,2542.36,0.1,9152.5,3299.98,2.7,Credit Card
+ORD10765,2025-03-20,CUST1164,Customer_67,Female,45,West,Ahmedabad,Electronics,Smartphone,4,1276.15,0.2,4083.68,1682.72,4.4,Cash on Delivery
+ORD10766,2025-02-28,CUST1169,Customer_236,Female,45,West,Pune,Home & Kitchen,Vacuum Cleaner,4,4844.54,0.2,15502.53,3057.62,1.9,Debit Card
+ORD10767,2024-06-09,CUST1298,Customer_200,Male,56,West,Jaipur,Beauty,Shampoo,1,3646.84,0.0,3646.84,1244.83,1.0,Cash on Delivery
+ORD10768,2024-06-26,CUST1233,Customer_227,Male,19,South,Bengaluru,Sports,Football,3,4796.39,0.2,11511.34,2899.24,3.6,Cash on Delivery
+ORD10769,2025-09-20,CUST1271,Customer_233,Female,22,South,Mumbai,Fashion,T-Shirt,3,2278.75,0.15,5810.81,1794.12,1.8,Debit Card
+ORD10770,2025-12-08,CUST1060,Customer_266,Female,28,South,Mumbai,Beauty,Face Cream,4,2506.73,0.15,8522.88,3326.66,4.6,Cash on Delivery
+ORD10771,2025-05-04,CUST1296,Customer_86,Female,27,West,Jaipur,Electronics,Headphones,1,4515.29,0.05,4289.53,1156.0,4.4,UPI
+ORD10772,2024-11-22,CUST1235,Customer_102,Male,60,South,Mumbai,Beauty,Face Cream,4,2743.98,0.15,9329.53,4028.45,1.3,UPI
+ORD10773,2025-08-20,CUST1165,Customer_214,Female,19,West,Jaipur,Electronics,Smartwatch,1,3609.57,0.2,2887.66,941.37,1.4,Cash on Delivery
+ORD10774,2024-10-15,CUST1194,Customer_108,Female,32,North,Delhi,Fashion,Jacket,4,1447.82,0.05,5501.72,1573.58,3.0,Credit Card
+ORD10775,2025-08-15,CUST1234,Customer_165,Male,56,West,Ahmedabad,Beauty,Makeup Kit,2,2371.95,0.25,3557.92,1135.64,3.4,Cash on Delivery
+ORD10776,2025-10-25,CUST1183,Customer_91,Female,58,East,Guwahati,Electronics,Smartwatch,2,836.39,0.0,1672.78,377.04,2.1,Credit Card
+ORD10777,2025-07-26,CUST1232,Customer_192,Female,54,South,Chennai,Electronics,Smartphone,5,1228.41,0.0,6142.05,1238.38,3.9,Cash on Delivery
+ORD10778,2025-07-26,CUST1107,Customer_86,Male,24,South,Mumbai,Beauty,Perfume,4,254.48,0.1,916.13,200.29,3.4,UPI
+ORD10779,2024-12-19,CUST1223,Customer_222,Female,37,East,Kolkata,Beauty,Perfume,3,436.51,0.1,1178.58,516.64,2.3,Credit Card
+ORD10780,2024-01-28,CUST1080,Customer_101,Female,51,West,Jaipur,Home & Kitchen,Bedsheet,5,4892.1,0.1,22014.45,8624.41,1.1,UPI
+ORD10781,2024-02-12,CUST1234,Customer_226,Male,52,North,Delhi,Home & Kitchen,Bedsheet,2,1401.18,0.0,2802.36,809.93,4.0,Cash on Delivery
+ORD10782,2025-11-11,CUST1184,Customer_60,Female,51,East,Bhubaneswar,Home & Kitchen,Cookware Set,4,3400.73,0.25,10202.19,1729.82,1.9,Debit Card
+ORD10783,2025-02-26,CUST1185,Customer_250,Male,39,East,Kolkata,Electronics,Headphones,5,4235.72,0.0,21178.6,4225.41,4.3,Credit Card
+ORD10784,2025-08-20,CUST1134,Customer_48,Female,48,West,Ahmedabad,Fashion,Jeans,4,2865.64,0.0,11462.56,2260.87,2.7,Credit Card
+ORD10785,2024-06-25,CUST1220,Customer_117,Female,40,South,Bengaluru,Electronics,Laptop,2,977.44,0.0,1954.88,701.88,3.3,Cash on Delivery
+ORD10786,2025-06-12,CUST1288,Customer_227,Female,36,West,Ahmedabad,Sports,Dumbbells,5,3708.55,0.1,16688.48,5359.77,4.5,Cash on Delivery
+ORD10787,2025-09-01,CUST1202,Customer_33,Female,21,East,Bhubaneswar,Home & Kitchen,Cookware Set,2,3101.19,0.2,4961.9,1532.18,4.5,Credit Card
+ORD10788,2025-05-08,CUST1146,Customer_44,Female,41,East,Bhubaneswar,Fashion,T-Shirt,1,3723.44,0.15,3164.92,1274.79,2.5,Debit Card
+ORD10789,2024-07-16,CUST1127,Customer_165,Male,37,South,Mumbai,Fashion,Jeans,2,3906.3,0.15,6640.71,2926.43,1.8,Cash on Delivery
+ORD10790,2025-09-01,CUST1135,Customer_292,Female,56,South,Bengaluru,Sports,Dumbbells,4,4883.2,0.0,19532.8,3241.06,4.1,Cash on Delivery
+ORD10791,2025-07-30,CUST1114,Customer_287,Female,45,South,Mumbai,Electronics,Laptop,3,2974.43,0.1,8030.96,3033.99,2.7,Cash on Delivery
+ORD10792,2025-05-31,CUST1264,Customer_225,Male,56,West,Ahmedabad,Home & Kitchen,Mixer,2,1872.8,0.1,3371.04,1274.3,1.8,Debit Card
+ORD10793,2025-05-28,CUST1064,Customer_286,Male,34,South,Chennai,Fashion,T-Shirt,3,3330.21,0.1,8991.57,3821.29,4.6,Credit Card
+ORD10794,2024-01-22,CUST1135,Customer_204,Female,36,East,Bhubaneswar,Home & Kitchen,Mixer,1,575.09,0.0,575.09,98.6,1.8,UPI
+ORD10795,2024-04-21,CUST1041,Customer_172,Male,52,East,Guwahati,Electronics,Smartwatch,5,4512.64,0.15,19178.72,5294.84,1.1,Cash on Delivery
+ORD10796,2024-02-26,CUST1296,Customer_12,Female,49,North,Chandigarh,Sports,Dumbbells,5,817.06,0.1,3676.77,918.78,1.1,Debit Card
+ORD10797,2024-03-06,CUST1003,Customer_121,Male,56,West,Ahmedabad,Sports,Football,3,1807.25,0.15,4608.49,813.52,3.5,Credit Card
+ORD10798,2024-04-07,CUST1194,Customer_244,Male,52,North,Chandigarh,Home & Kitchen,Vacuum Cleaner,5,4124.79,0.1,18561.56,6428.13,3.6,Credit Card
+ORD10799,2024-05-23,CUST1110,Customer_152,Female,47,East,Guwahati,Home & Kitchen,Mixer,2,3087.23,0.0,6174.46,1627.27,2.2,Debit Card
+ORD10800,2025-03-10,CUST1221,Customer_152,Male,34,North,Lucknow,Sports,Yoga Mat,3,2119.77,0.1,5723.38,2508.9,2.3,Cash on Delivery
+ORD10801,2025-09-28,CUST1004,Customer_188,Female,59,East,Bhubaneswar,Home & Kitchen,Vacuum Cleaner,4,2498.82,0.0,9995.28,3937.82,2.4,UPI
+ORD10802,2025-11-09,CUST1244,Customer_13,Male,46,North,Delhi,Electronics,Laptop,2,4309.1,0.2,6894.56,1383.23,3.7,Cash on Delivery
+ORD10803,2024-03-26,CUST1166,Customer_91,Male,23,South,Bengaluru,Home & Kitchen,Vacuum Cleaner,2,1865.02,0.1,3357.04,738.45,1.2,Credit Card
+ORD10804,2025-08-10,CUST1026,Customer_200,Male,34,North,Lucknow,Home & Kitchen,Vacuum Cleaner,2,4380.84,0.0,8761.68,3021.09,4.7,UPI
+ORD10805,2024-12-09,CUST1017,Customer_74,Female,34,South,Bengaluru,Fashion,T-Shirt,4,668.64,0.25,2005.92,675.91,1.9,Cash on Delivery
+ORD10806,2024-10-20,CUST1216,Customer_256,Female,31,South,Chennai,Beauty,Perfume,1,3939.79,0.1,3545.81,1028.05,5.0,UPI
+ORD10807,2025-07-24,CUST1092,Customer_276,Male,41,West,Jaipur,Sports,Yoga Mat,5,4275.85,0.0,21379.25,9619.12,1.7,Debit Card
+ORD10808,2025-10-11,CUST1031,Customer_71,Female,54,South,Chennai,Sports,Football,3,1113.63,0.1,3006.8,1135.45,4.1,Cash on Delivery
+ORD10809,2025-09-02,CUST1205,Customer_78,Female,57,South,Bengaluru,Fashion,T-Shirt,1,2294.15,0.05,2179.44,844.6,1.9,Credit Card
+ORD10810,2025-12-04,CUST1207,Customer_284,Female,56,North,Lucknow,Electronics,Smartwatch,3,1036.12,0.15,2642.11,990.41,1.3,Credit Card
+ORD10811,2024-08-30,CUST1107,Customer_130,Male,49,East,Guwahati,Sports,Yoga Mat,5,3606.37,0.15,15327.07,3191.53,4.5,UPI
+ORD10812,2025-07-14,CUST1146,Customer_43,Female,53,West,Ahmedabad,Beauty,Face Cream,4,2792.9,0.25,8378.7,3067.42,4.4,Debit Card
+ORD10813,2024-02-01,CUST1101,Customer_8,Male,54,South,Chennai,Electronics,Smartphone,2,3267.79,0.1,5882.02,2308.95,2.6,Cash on Delivery
+ORD10814,2025-01-25,CUST1241,Customer_13,Male,31,West,Ahmedabad,Sports,Dumbbells,2,1183.31,0.1,2129.96,636.26,3.8,Debit Card
+ORD10815,2024-10-03,CUST1247,Customer_213,Male,44,North,Lucknow,Sports,Dumbbells,4,1255.79,0.15,4269.69,812.55,3.2,Debit Card
+ORD10816,2025-06-15,CUST1163,Customer_111,Male,36,South,Mumbai,Fashion,Jacket,1,447.11,0.0,447.11,168.83,4.4,UPI
+ORD10817,2024-06-02,CUST1173,Customer_291,Male,48,North,Delhi,Home & Kitchen,Vacuum Cleaner,1,1779.82,0.1,1601.84,683.09,2.3,UPI
+ORD10818,2025-01-17,CUST1035,Customer_23,Female,26,West,Jaipur,Fashion,Shoes,3,2908.79,0.1,7853.73,2694.45,3.1,Cash on Delivery
+ORD10819,2024-03-08,CUST1284,Customer_254,Female,55,North,Delhi,Electronics,Headphones,4,4325.19,0.0,17300.76,3904.86,2.9,Credit Card
+ORD10820,2024-08-01,CUST1021,Customer_15,Male,34,West,Ahmedabad,Fashion,Jeans,1,3417.91,0.1,3076.12,876.06,2.4,Cash on Delivery
+ORD10821,2025-10-16,CUST1163,Customer_130,Female,36,North,Delhi,Beauty,Makeup Kit,4,2318.13,0.2,7418.02,1520.41,4.6,Debit Card
+ORD10822,2025-01-10,CUST1097,Customer_61,Female,21,West,Jaipur,Electronics,Headphones,5,4777.32,0.2,19109.28,3098.04,1.7,UPI
+ORD10823,2024-07-31,CUST1055,Customer_115,Female,28,East,Guwahati,Fashion,T-Shirt,2,3666.41,0.0,7332.82,1556.03,1.6,Debit Card
+ORD10824,2024-03-19,CUST1127,Customer_67,Female,39,North,Chandigarh,Fashion,Jacket,2,4668.28,0.0,9336.56,2510.22,3.3,UPI
+ORD10825,2025-12-26,CUST1193,Customer_249,Female,21,North,Lucknow,Home & Kitchen,Cookware Set,2,2756.04,0.05,5236.48,1581.4,3.6,Credit Card
+ORD10826,2025-09-19,CUST1243,Customer_175,Female,34,East,Bhubaneswar,Sports,Cricket Bat,4,1479.8,0.2,4735.36,2073.99,1.8,Debit Card
+ORD10827,2025-08-26,CUST1088,Customer_2,Female,25,East,Kolkata,Fashion,Jeans,4,500.93,0.0,2003.72,309.98,2.6,UPI
+ORD10828,2025-01-15,CUST1215,Customer_172,Male,51,North,Delhi,Fashion,T-Shirt,3,3698.9,0.15,9432.2,3159.37,4.8,Cash on Delivery
+ORD10829,2025-11-10,CUST1092,Customer_284,Male,28,East,Bhubaneswar,Beauty,Perfume,2,826.19,0.0,1652.38,668.11,2.0,Cash on Delivery
+ORD10830,2024-02-27,CUST1235,Customer_54,Male,48,South,Bengaluru,Fashion,T-Shirt,3,1688.18,0.1,4558.09,1139.46,3.7,Cash on Delivery
+ORD10831,2024-01-26,CUST1184,Customer_67,Female,28,West,Jaipur,Electronics,Smartwatch,2,2779.24,0.05,5280.56,1925.89,4.0,Debit Card
+ORD10832,2025-03-22,CUST1038,Customer_102,Female,55,West,Pune,Fashion,Jeans,3,2930.98,0.15,7474.0,2049.87,2.8,UPI
+ORD10833,2024-03-06,CUST1139,Customer_120,Male,38,West,Ahmedabad,Electronics,Smartphone,3,3102.77,0.05,8842.89,2422.68,4.8,UPI
+ORD10834,2024-09-10,CUST1195,Customer_191,Female,47,South,Mumbai,Electronics,Smartphone,5,1039.71,0.1,4678.7,1479.78,3.9,UPI
+ORD10835,2024-02-13,CUST1015,Customer_47,Female,27,East,Bhubaneswar,Fashion,Shoes,3,2053.75,0.05,5853.19,1165.75,2.8,Debit Card
+ORD10836,2024-04-06,CUST1257,Customer_222,Male,43,East,Kolkata,Fashion,Shoes,4,3181.67,0.15,10817.68,4008.06,3.3,UPI
+ORD10837,2025-07-07,CUST1135,Customer_21,Male,44,North,Lucknow,Sports,Cricket Bat,3,4856.64,0.2,11655.94,3676.4,3.8,Credit Card
+ORD10838,2024-08-14,CUST1001,Customer_158,Male,25,East,Kolkata,Fashion,T-Shirt,2,3706.25,0.0,7412.5,2139.93,3.4,Debit Card
+ORD10839,2025-11-09,CUST1049,Customer_159,Female,56,North,Delhi,Home & Kitchen,Mixer,3,4632.37,0.2,11117.69,2789.57,4.5,Credit Card
+ORD10840,2025-03-11,CUST1096,Customer_235,Female,25,South,Mumbai,Home & Kitchen,Bedsheet,1,3870.51,0.1,3483.46,748.28,2.4,Credit Card
+ORD10841,2025-08-23,CUST1201,Customer_150,Female,25,West,Pune,Electronics,Smartphone,2,3060.66,0.0,6121.32,2029.57,2.2,Cash on Delivery
+ORD10842,2025-01-13,CUST1026,Customer_257,Male,51,West,Pune,Home & Kitchen,Mixer,1,1162.11,0.1,1045.9,267.94,1.9,Debit Card
+ORD10843,2024-06-26,CUST1235,Customer_165,Male,33,West,Jaipur,Electronics,Smartphone,2,3416.76,0.0,6833.52,2766.32,1.2,UPI
+ORD10844,2025-03-02,CUST1244,Customer_77,Female,58,East,Bhubaneswar,Sports,Football,4,3211.05,0.15,10917.57,1858.23,1.2,Credit Card
+ORD10845,2025-12-09,CUST1051,Customer_85,Male,30,North,Delhi,Electronics,Laptop,4,3111.73,0.15,10579.88,3545.13,4.5,Debit Card
+ORD10846,2024-11-02,CUST1081,Customer_46,Male,40,North,Lucknow,Fashion,Jacket,4,2576.48,0.0,10305.92,2382.15,3.7,UPI
+ORD10847,2025-05-18,CUST1036,Customer_47,Female,29,South,Mumbai,Electronics,Laptop,1,2761.12,0.1,2485.01,1103.09,3.6,Cash on Delivery
+ORD10848,2024-09-24,CUST1067,Customer_213,Male,44,East,Kolkata,Sports,Dumbbells,5,1838.6,0.15,7814.05,3035.32,3.5,Debit Card
+ORD10849,2025-08-08,CUST1129,Customer_59,Male,39,South,Bengaluru,Fashion,T-Shirt,2,2716.74,0.2,4346.78,1320.88,4.4,Debit Card
+ORD10850,2024-01-08,CUST1155,Customer_54,Male,49,North,Delhi,Home & Kitchen,Cookware Set,4,1188.39,0.1,4278.2,797.99,2.9,Debit Card
+ORD10851,2025-05-22,CUST1245,Customer_12,Female,44,North,Lucknow,Electronics,Smartwatch,2,4074.58,0.25,6111.87,1783.59,4.5,UPI
+ORD10852,2025-04-20,CUST1111,Customer_192,Female,19,West,Jaipur,Beauty,Perfume,1,1132.44,0.1,1019.2,174.32,2.4,Credit Card
+ORD10853,2024-10-23,CUST1168,Customer_6,Male,50,East,Bhubaneswar,Electronics,Headphones,5,653.59,0.05,3104.55,946.46,4.7,Credit Card
+ORD10854,2024-06-12,CUST1142,Customer_144,Female,43,North,Delhi,Sports,Cricket Bat,1,2322.17,0.15,1973.84,597.81,3.8,Debit Card
+ORD10855,2025-04-29,CUST1197,Customer_261,Female,45,West,Jaipur,Electronics,Laptop,2,3376.96,0.1,6078.53,2516.97,2.0,Debit Card
+ORD10856,2025-08-19,CUST1109,Customer_73,Female,36,East,Kolkata,Electronics,Smartphone,5,2329.15,0.1,10481.18,2192.7,3.3,UPI
+ORD10857,2024-03-12,CUST1079,Customer_174,Male,60,South,Mumbai,Electronics,Laptop,5,1564.58,0.1,7040.61,2646.64,3.1,Cash on Delivery
+ORD10858,2025-07-20,CUST1161,Customer_232,Female,22,East,Kolkata,Fashion,T-Shirt,1,2901.31,0.15,2466.11,444.19,1.6,Debit Card
+ORD10859,2025-07-12,CUST1019,Customer_270,Male,50,East,Bhubaneswar,Home & Kitchen,Mixer,4,1898.26,0.15,6454.08,1140.78,3.4,Debit Card
+ORD10860,2024-08-25,CUST1127,Customer_222,Male,37,North,Delhi,Electronics,Headphones,2,4681.12,0.1,8426.02,1407.2,,Cash on Delivery
+ORD10861,2024-04-13,CUST1205,Customer_52,Female,47,North,Lucknow,Beauty,Perfume,3,4632.56,0.05,13202.8,3880.71,1.2,Debit Card
+ORD10862,2024-07-28,CUST1029,Customer_116,Male,25,East,Kolkata,Fashion,Jacket,3,2636.27,0.1,7117.93,1757.22,4.8,Credit Card
+ORD10863,2025-07-07,CUST1207,Customer_26,Female,55,North,Lucknow,Fashion,Shoes,1,1807.45,0.1,1626.71,352.09,3.6,Debit Card
+ORD10864,2025-04-12,CUST1280,Customer_53,Female,34,North,Delhi,Fashion,Shoes,2,3751.38,0.05,7127.62,2927.28,4.5,Credit Card
+ORD10865,2025-03-29,CUST1151,Customer_29,Male,18,North,Lucknow,Fashion,Jeans,2,424.39,0.15,721.46,194.59,3.7,UPI
+ORD10866,2024-09-24,CUST1240,Customer_19,Male,20,West,Jaipur,Home & Kitchen,Bedsheet,1,2505.15,0.1,2254.64,991.39,2.4,UPI
+ORD10867,2025-01-20,CUST1266,Customer_279,Female,43,West,Pune,Electronics,Smartwatch,2,1847.54,0.05,3510.33,1055.66,3.1,Credit Card
+ORD10868,2025-01-21,CUST1182,Customer_117,Female,48,East,Kolkata,Electronics,Laptop,4,4622.55,0.0,18490.2,7461.67,3.7,Credit Card
+ORD10869,2024-09-15,CUST1105,Customer_106,Female,25,North,Lucknow,Sports,Dumbbells,1,307.01,0.05,291.66,115.24,4.8,Cash on Delivery
+ORD10870,2024-10-09,CUST1236,Customer_227,Female,60,West,Ahmedabad,Sports,Football,4,2875.87,0.2,9202.78,3133.42,2.0,Credit Card
+ORD10871,2025-09-17,CUST1173,Customer_186,Male,25,East,Kolkata,Fashion,Jacket,2,3768.15,0.05,7159.48,2292.96,4.5,Credit Card
+ORD10872,2024-02-09,CUST1158,Customer_261,Male,52,North,Chandigarh,Electronics,Laptop,1,2553.84,0.0,2553.84,671.78,4.7,Debit Card
+ORD10873,2025-04-30,CUST1172,Customer_16,Male,56,South,Mumbai,Home & Kitchen,Mixer,2,655.66,0.1,1180.19,504.73,3.7,Cash on Delivery
+ORD10874,2024-08-07,CUST1157,Customer_273,Female,45,North,,Fashion,Jacket,1,4869.19,0.05,4625.73,1382.6,4.7,Credit Card
+ORD10875,2024-05-08,CUST1258,Customer_160,Male,21,North,Delhi,Electronics,Smartwatch,2,2710.55,0.0,5421.1,2142.49,2.6,Credit Card
+ORD10876,2025-06-03,CUST1164,Customer_250,Male,33,West,Pune,Electronics,Laptop,4,3167.38,0.05,12036.04,3343.7,4.8,Credit Card
+ORD10877,2025-09-04,CUST1147,Customer_224,Male,30,East,Bhubaneswar,Beauty,Shampoo,4,1373.9,0.1,4946.04,1279.93,3.8,Debit Card
+ORD10878,2025-11-18,CUST1154,Customer_256,Male,37,East,Kolkata,Home & Kitchen,Vacuum Cleaner,2,2546.62,0.1,4583.92,1297.19,1.2,Debit Card
+ORD10879,2025-09-10,CUST1038,Customer_180,Female,22,West,Jaipur,Electronics,Headphones,1,2288.46,0.05,2174.04,496.79,4.6,Debit Card
+ORD10880,2025-09-04,CUST1131,Customer_20,Male,54,North,Lucknow,Electronics,Smartwatch,3,605.76,0.1,1635.55,571.33,2.9,
+ORD10881,2024-09-16,CUST1255,Customer_112,Male,37,South,Bengaluru,Electronics,Laptop,4,754.26,0.25,2262.78,498.87,2.8,Debit Card
+ORD10882,2024-12-31,CUST1208,Customer_120,Male,41,North,Delhi,Home & Kitchen,Mixer,4,4227.99,0.05,16066.36,5143.96,3.3,Credit Card
+ORD10883,2025-06-27,CUST1095,Customer_194,Male,53,North,Lucknow,Electronics,Smartphone,3,1389.14,0.05,3959.05,1206.5,1.6,Debit Card
+ORD10884,2025-10-10,CUST1171,Customer_111,Female,51,South,Bengaluru,Electronics,Headphones,2,1176.05,0.05,2234.5,571.07,2.9,Debit Card
+ORD10885,2025-06-07,CUST1250,Customer_210,Female,51,West,Pune,Beauty,Makeup Kit,1,2648.33,0.1,2383.5,1059.45,4.3,Cash on Delivery
+ORD10886,2024-01-16,CUST1190,Customer_1,Male,36,East,Guwahati,Electronics,Smartphone,2,3901.55,0.15,6632.64,1683.38,1.1,Credit Card
+ORD10887,2024-05-08,CUST1199,Customer_58,Female,34,West,Jaipur,Home & Kitchen,Vacuum Cleaner,5,544.25,0.05,2585.19,683.59,2.1,Debit Card
+ORD10888,2025-07-28,CUST1221,Customer_93,Female,22,West,Ahmedabad,Electronics,Laptop,4,2989.84,0.15,10165.46,3629.54,1.0,UPI
+ORD10889,2024-04-18,CUST1024,Customer_221,Female,42,North,Delhi,Electronics,Smartphone,5,816.25,0.0,4081.25,1731.52,2.7,Cash on Delivery
+ORD10890,2025-06-16,CUST1244,Customer_211,Female,35,East,Kolkata,Electronics,Headphones,4,423.19,0.1,1523.48,644.0,3.9,Debit Card
+ORD10891,2025-10-31,CUST1128,Customer_232,Male,25,East,Guwahati,Beauty,Shampoo,4,500.53,0.15,1701.8,294.47,4.2,Cash on Delivery
+ORD10892,2024-09-25,CUST1093,Customer_262,Female,44,West,Jaipur,Sports,Football,5,4212.28,0.05,20008.33,4866.35,4.8,Cash on Delivery
+ORD10893,2024-06-10,CUST1300,Customer_103,Female,32,South,Chennai,Beauty,Shampoo,5,810.37,0.1,3646.66,1501.95,3.4,UPI
+ORD10894,2024-09-16,CUST1133,Customer_50,Male,30,West,Pune,Fashion,T-Shirt,2,464.47,0.05,882.49,302.68,2.0,UPI
+ORD10895,2024-04-11,CUST1055,Customer_110,Male,33,South,Bengaluru,Home & Kitchen,Bedsheet,5,2330.02,0.15,9902.59,2696.03,4.7,UPI
+ORD10896,2025-05-20,CUST1158,Customer_88,Male,39,East,Bhubaneswar,Electronics,Headphones,2,4258.97,0.0,8517.94,1697.87,4.1,Credit Card
+ORD10897,2025-07-24,CUST1029,Customer_20,Male,37,West,Pune,Fashion,Jeans,2,1496.44,0.2,2394.3,1046.07,3.3,Cash on Delivery
+ORD10898,2024-09-03,CUST1211,Customer_14,Female,30,North,Chandigarh,Sports,Football,2,2253.13,0.0,4506.26,1707.92,3.8,Debit Card
+ORD10899,2025-10-01,CUST1154,Customer_133,Male,37,West,Jaipur,Electronics,Laptop,4,439.63,0.2,1406.82,257.55,4.7,UPI
+ORD10900,2025-06-20,CUST1293,Customer_296,Female,19,East,Bhubaneswar,Electronics,Laptop,4,2383.12,0.05,9055.86,4050.24,3.8,UPI
+ORD10901,2024-05-10,CUST1222,Customer_34,Female,52,North,Chandigarh,Electronics,Laptop,5,2993.66,0.15,12723.05,4956.65,2.5,Cash on Delivery
+ORD10902,2024-12-18,CUST1115,Customer_208,Male,36,North,Chandigarh,Electronics,Laptop,4,2961.81,0.05,11254.88,1826.59,3.9,Cash on Delivery
+ORD10903,2024-07-14,CUST1158,Customer_199,Male,54,South,Chennai,Electronics,Smartphone,5,1829.03,0.2,7316.12,1945.94,1.2,Cash on Delivery
+ORD10904,2025-10-27,CUST1259,Customer_80,Female,23,North,Delhi,Home & Kitchen,Cookware Set,4,1748.78,0.0,6995.12,2598.68,2.5,Debit Card
+ORD10905,2025-01-16,CUST1251,Customer_71,Female,31,North,Lucknow,Fashion,Jacket,1,756.46,0.0,756.46,325.2,2.6,Credit Card
+ORD10906,2025-10-06,CUST1122,Customer_155,Male,21,West,Pune,Sports,Football,1,1992.29,0.1,1793.06,791.71,1.7,Credit Card
+ORD10907,2024-08-14,CUST1299,Customer_78,Male,39,East,Kolkata,Beauty,Makeup Kit,5,722.6,0.0,3613.0,1360.57,1.1,UPI
+ORD10908,2025-12-01,CUST1263,Customer_78,Male,56,South,Mumbai,Fashion,T-Shirt,4,3891.33,0.0,15565.32,2888.21,1.5,Credit Card
+ORD10909,2025-04-20,CUST1049,Customer_172,Female,53,West,Ahmedabad,Electronics,Smartwatch,4,4839.8,0.2,15487.36,5036.89,3.6,Debit Card
+ORD10910,2025-04-21,CUST1297,Customer_289,Female,51,North,Chandigarh,Fashion,Shoes,2,4857.85,0.25,7286.78,1704.38,4.2,Credit Card
+ORD10911,2024-09-21,CUST1077,Customer_33,Male,44,North,Delhi,Home & Kitchen,Vacuum Cleaner,3,4359.09,0.05,12423.41,2168.07,5.0,Debit Card
+ORD10912,2025-01-06,CUST1127,Customer_300,Female,24,South,Mumbai,Electronics,Smartphone,5,3103.76,0.2,12415.04,4067.02,2.4,UPI
+ORD10913,2025-04-30,CUST1197,Customer_276,Male,20,East,Bhubaneswar,Home & Kitchen,Cookware Set,3,3579.11,0.1,9663.6,3794.09,3.4,Cash on Delivery
+ORD10914,2025-03-09,CUST1221,Customer_7,Female,50,South,Chennai,Fashion,Jacket,3,1604.73,0.05,4573.48,1348.56,4.7,Debit Card
+ORD10915,2025-10-07,CUST1091,Customer_160,Female,19,West,Pune,Home & Kitchen,Mixer,5,3246.16,0.15,13796.18,2449.86,1.7,Cash on Delivery
+ORD10916,2024-07-29,CUST1008,Customer_240,Male,59,South,Chennai,Fashion,T-Shirt,4,2414.34,0.15,8208.76,1713.07,3.9,UPI
+ORD10917,2025-07-25,CUST1032,Customer_24,Male,33,North,Chandigarh,Fashion,Shoes,5,2539.58,0.25,9523.42,4097.46,4.0,Debit Card
+ORD10918,2025-01-11,CUST1269,Customer_214,Male,42,West,Pune,Sports,Football,3,3849.44,0.05,10970.9,2657.46,1.4,Debit Card
+ORD10919,2025-01-29,CUST1191,Customer_70,Female,32,North,Lucknow,Beauty,Makeup Kit,4,1589.11,0.15,5402.97,1504.35,4.4,Credit Card
+ORD10920,2025-03-25,CUST1163,Customer_216,Female,41,East,Guwahati,Electronics,Laptop,1,1760.69,0.0,1760.69,312.98,4.3,Debit Card
+ORD10921,2024-12-29,CUST1061,Customer_104,Male,32,North,Lucknow,Sports,Yoga Mat,5,4642.05,0.0,23210.25,9591.77,1.1,UPI
+ORD10922,2025-04-01,CUST1264,Customer_215,Female,48,North,Chandigarh,Fashion,Jacket,5,517.07,0.0,2585.35,749.21,1.4,Cash on Delivery
+ORD10923,2025-12-25,CUST1285,Customer_54,Male,31,South,Bengaluru,Sports,Yoga Mat,4,2556.76,0.25,7670.28,1427.91,1.2,Debit Card
+ORD10924,2025-12-28,CUST1095,Customer_294,Female,31,North,Lucknow,Beauty,Face Cream,1,4585.8,0.15,3897.93,1274.6,2.3,UPI
+ORD10925,2024-08-13,CUST1041,Customer_203,Male,23,West,Jaipur,Fashion,Jeans,1,3149.22,0.15,2676.84,817.51,3.0,UPI
+ORD10926,2024-05-10,CUST1149,Customer_288,Female,31,West,Ahmedabad,Electronics,Laptop,4,2845.43,0.1,10243.55,4393.07,3.1,Debit Card
+ORD10927,2025-08-10,CUST1204,Customer_45,Female,34,East,Guwahati,Electronics,Smartwatch,2,1436.28,0.05,2728.93,1000.31,2.1,Credit Card
+ORD10928,2025-04-20,CUST1267,Customer_198,Female,35,West,Jaipur,Home & Kitchen,Cookware Set,5,1880.56,0.0,9402.8,3315.88,4.6,Debit Card
+ORD10929,2024-10-03,CUST1002,Customer_216,Female,37,South,Bengaluru,Home & Kitchen,Cookware Set,5,4297.23,0.05,20411.84,3397.82,2.5,Debit Card
+ORD10930,2024-06-04,CUST1178,Customer_184,Male,34,East,Guwahati,Electronics,Smartwatch,3,2906.29,0.05,8282.93,3024.92,1.2,Credit Card
+ORD10931,2024-08-05,CUST1194,Customer_27,Female,33,West,Jaipur,Electronics,Laptop,4,2695.03,0.15,9163.1,2856.5,2.2,UPI
+ORD10932,2024-07-08,CUST1196,Customer_166,Male,57,South,Chennai,Beauty,Perfume,3,723.0,0.1,1952.1,485.31,3.1,Debit Card
+ORD10933,2025-02-20,CUST1249,Customer_274,Male,56,West,Ahmedabad,Sports,Yoga Mat,3,326.13,0.0,978.39,392.67,2.6,Credit Card
+ORD10934,2025-11-05,CUST1212,Customer_103,Male,49,West,Jaipur,Fashion,T-Shirt,1,4827.5,0.0,4827.5,1467.88,2.1,Cash on Delivery
+ORD10935,2025-11-22,CUST1153,Customer_104,Male,26,North,Chandigarh,Electronics,Smartphone,5,2040.68,0.0,10203.4,2330.85,1.5,Cash on Delivery
+ORD10936,2025-06-29,CUST1158,Customer_245,Female,44,West,Ahmedabad,Electronics,Smartphone,3,3115.26,0.1,8411.2,1597.65,4.3,Credit Card
+ORD10937,2024-02-10,CUST1139,Customer_169,Male,50,West,Pune,Electronics,Smartwatch,1,628.65,0.2,502.92,131.83,5.0,UPI
+ORD10938,2024-11-02,CUST1221,Customer_116,Female,27,South,Mumbai,Sports,Yoga Mat,4,3494.79,0.1,12581.24,3136.3,2.3,Credit Card
+ORD10939,2024-12-03,CUST1273,Customer_141,Female,34,South,Chennai,Electronics,Smartphone,3,4679.69,0.15,11933.21,4917.85,2.5,UPI
+ORD10940,2024-11-09,CUST1154,Customer_125,Female,53,North,Chandigarh,Home & Kitchen,Mixer,5,2984.41,0.1,13429.84,2232.94,3.5,Cash on Delivery
+ORD10941,2024-03-15,CUST1249,Customer_25,Female,34,West,Pune,Electronics,Smartphone,3,849.05,0.05,2419.79,992.67,3.9,Debit Card
+ORD10942,2024-10-05,CUST1279,Customer_194,Male,35,North,Lucknow,Home & Kitchen,Bedsheet,4,3013.18,0.0,12052.72,2622.65,2.6,Credit Card
+ORD10943,2024-06-24,CUST1276,Customer_100,Female,40,West,Pune,Home & Kitchen,Mixer,3,3890.15,0.2,9336.36,3459.64,4.6,Cash on Delivery
+ORD10944,2025-10-23,CUST1002,Customer_5,Male,51,East,Kolkata,Beauty,Perfume,5,2180.48,0.15,9267.04,1574.67,3.2,Debit Card
+ORD10945,2024-09-29,CUST1088,Customer_19,Female,25,East,Bhubaneswar,Electronics,Smartwatch,1,4429.23,0.0,4429.23,1036.49,2.8,Cash on Delivery
+ORD10946,2025-09-11,CUST1287,Customer_170,Female,30,North,Chandigarh,Electronics,Laptop,5,3331.24,0.1,14990.58,3355.73,3.6,Credit Card
+ORD10947,2025-10-12,CUST1130,Customer_274,Male,40,North,Delhi,Electronics,Smartphone,1,4521.43,0.1,4069.29,1563.76,4.8,Credit Card
+ORD10948,2024-10-15,CUST1078,Customer_254,Female,37,North,Delhi,Sports,Cricket Bat,2,3211.65,0.1,5780.97,1833.08,4.2,Debit Card
+ORD10949,2025-12-24,CUST1260,Customer_121,Female,39,South,Bengaluru,Sports,Cricket Bat,5,873.62,0.2,3494.48,924.84,1.2,Credit Card
+ORD10950,2024-09-28,CUST1241,Customer_32,Female,40,South,Chennai,Home & Kitchen,Vacuum Cleaner,5,1721.04,0.1,7744.68,1696.15,2.3,Cash on Delivery
+ORD10951,2024-03-06,CUST1141,Customer_149,Female,58,South,Bengaluru,Home & Kitchen,Cookware Set,4,1208.53,0.1,4350.71,1822.13,2.9,Debit Card
+ORD10952,2025-04-27,CUST1228,Customer_266,Female,52,North,Delhi,Home & Kitchen,Bedsheet,3,4566.93,0.0,13700.79,2209.81,2.3,Debit Card
+ORD10953,2024-09-04,CUST1163,Customer_37,Male,20,West,Jaipur,Electronics,Laptop,1,3861.9,0.0,3861.9,706.47,3.8,Cash on Delivery
+ORD10954,2024-06-04,CUST1236,Customer_177,Female,51,East,Kolkata,Sports,Cricket Bat,1,3462.89,0.0,3462.89,1277.44,4.3,UPI
+ORD10955,2024-02-16,CUST1128,Customer_13,Female,50,North,Lucknow,Fashion,Jeans,4,1679.59,0.0,6718.36,1364.98,3.9,Debit Card
+ORD10956,2025-03-29,CUST1200,Customer_183,Male,34,South,Mumbai,Fashion,T-Shirt,4,1124.21,0.15,3822.31,1125.68,5.0,UPI
+ORD10957,2024-07-19,CUST1031,Customer_145,Female,36,South,Chennai,Fashion,T-Shirt,3,3843.14,0.15,9800.01,3052.29,2.1,Cash on Delivery
+ORD10958,2025-10-21,CUST1138,Customer_265,Male,47,North,Lucknow,Electronics,Headphones,3,2502.25,0.0,7506.75,2669.92,4.5,Cash on Delivery
+ORD10959,2024-05-03,CUST1021,Customer_88,Female,40,North,Delhi,Electronics,Headphones,5,1322.5,0.15,5620.62,1549.66,4.1,Debit Card
+ORD10960,2024-01-01,CUST1234,Customer_46,Female,32,South,Chennai,Beauty,Face Cream,2,3178.95,0.0,6357.9,1468.89,2.4,Credit Card
+ORD10961,2025-10-01,CUST1202,Customer_119,Male,31,West,Ahmedabad,Electronics,Headphones,3,441.59,0.05,1258.53,411.19,3.9,Debit Card
+ORD10962,2024-07-09,CUST1279,Customer_19,Female,19,South,Mumbai,Home & Kitchen,Mixer,4,1799.31,0.05,6837.38,1786.16,1.4,Credit Card
+ORD10963,2025-08-01,CUST1131,Customer_220,Female,56,South,Bengaluru,Electronics,Smartwatch,3,2475.65,0.05,7055.6,1694.8,4.2,UPI
+ORD10964,2025-05-30,CUST1148,Customer_233,Male,35,North,Delhi,Fashion,Jeans,1,952.8,0.05,905.16,214.22,3.1,Credit Card
+ORD10965,2025-03-17,CUST1029,Customer_94,Male,23,West,Jaipur,Fashion,Jeans,2,4927.11,0.1,8868.8,3852.7,2.2,Debit Card
+ORD10966,2024-05-22,CUST1162,Customer_251,Female,49,South,Chennai,Fashion,Shoes,5,1243.21,0.1,5594.45,1074.56,3.6,Credit Card
+ORD10967,2024-07-09,CUST1061,Customer_250,Male,38,South,Chennai,Beauty,Face Cream,1,869.18,0.25,651.88,203.73,3.6,Cash on Delivery
+ORD10968,2025-06-16,CUST1125,Customer_282,Female,57,East,Kolkata,Fashion,T-Shirt,1,1216.79,0.0,1216.79,451.76,1.8,UPI
+ORD10969,2024-08-14,CUST1071,Customer_232,Male,45,North,Chandigarh,Home & Kitchen,Bedsheet,2,3903.04,0.0,7806.08,2946.57,1.1,Cash on Delivery
+ORD10970,2024-11-08,CUST1243,Customer_46,Female,44,East,Bhubaneswar,Fashion,T-Shirt,5,2271.15,0.0,11355.75,3464.59,2.7,Cash on Delivery
+ORD10971,2025-09-20,CUST1249,Customer_46,Male,19,East,Kolkata,Home & Kitchen,Vacuum Cleaner,4,2935.73,0.1,10568.63,1944.11,3.3,
+ORD10972,2024-10-28,CUST1221,Customer_14,Male,50,South,Mumbai,Sports,Cricket Bat,5,349.79,0.0,1748.95,588.51,4.5,Cash on Delivery
+ORD10973,2025-10-15,CUST1021,Customer_85,Male,33,North,Chandigarh,Beauty,Perfume,3,413.55,0.15,1054.55,237.36,4.7,Credit Card
+ORD10974,2025-04-04,CUST1082,Customer_3,Male,56,West,Ahmedabad,Electronics,Headphones,1,2367.67,0.1,2130.9,897.01,3.1,Cash on Delivery
+ORD10975,2025-02-04,CUST1010,Customer_28,Male,39,South,Bengaluru,Electronics,Smartphone,3,4129.11,0.1,11148.6,3424.66,4.0,Credit Card
+ORD10976,2025-07-04,CUST1012,Customer_157,Male,60,West,Ahmedabad,Electronics,Headphones,4,4454.88,0.1,16037.57,2445.64,2.8,Cash on Delivery
+ORD10977,2025-01-27,CUST1263,Customer_175,Male,30,West,Pune,Home & Kitchen,Vacuum Cleaner,3,661.86,0.0,1985.58,434.58,4.0,Debit Card
+ORD10978,2024-07-25,CUST1145,Customer_114,Male,19,North,Delhi,Electronics,Smartphone,5,2807.22,0.0,14036.1,5429.75,1.8,Cash on Delivery
+ORD10979,2024-07-28,CUST1192,Customer_250,Male,31,East,Guwahati,Fashion,T-Shirt,3,4587.84,0.05,13075.34,3916.95,2.5,Debit Card
+ORD10980,2024-04-24,CUST1250,Customer_59,Female,55,North,Chandigarh,Home & Kitchen,Mixer,4,2092.87,0.1,7534.33,2862.39,3.5,Credit Card
+ORD10981,2025-10-07,CUST1114,Customer_203,Male,58,West,Jaipur,Fashion,T-Shirt,4,4190.44,0.05,15923.67,5209.14,1.1,UPI
+ORD10982,2024-09-07,CUST1026,Customer_239,Female,45,South,Mumbai,Beauty,Makeup Kit,4,885.05,0.0,3540.2,764.59,3.9,Credit Card
+ORD10983,2024-08-06,CUST1271,Customer_234,Male,24,West,Pune,Electronics,Smartphone,5,4693.12,0.25,17599.2,3847.76,4.3,UPI
+ORD10984,2025-02-10,CUST1033,Customer_95,Female,35,South,Chennai,Electronics,Headphones,4,3819.26,0.0,15277.04,5829.26,2.6,UPI
+ORD10985,2025-03-18,CUST1062,Customer_141,Female,58,South,Bengaluru,Beauty,Makeup Kit,1,4721.34,0.15,4013.14,695.61,2.8,Cash on Delivery
+ORD10986,2025-08-25,CUST1229,Customer_113,Male,53,North,Chandigarh,Fashion,Jeans,4,3463.93,0.15,11777.36,3206.15,4.4,UPI
+ORD10987,2024-12-19,CUST1095,Customer_109,Male,58,West,Ahmedabad,Home & Kitchen,Cookware Set,3,1976.17,0.05,5632.08,1892.51,4.1,Credit Card
+ORD10988,2025-07-11,CUST1035,Customer_289,Female,53,East,Bhubaneswar,Fashion,Shoes,3,4706.36,0.0,14119.08,4227.53,2.2,Cash on Delivery
+ORD10989,2025-07-03,CUST1193,Customer_97,Female,21,West,Jaipur,Electronics,Headphones,3,1558.94,0.0,4676.82,1255.63,2.3,UPI
+ORD10990,2024-05-21,CUST1076,Customer_16,Male,47,West,Jaipur,Beauty,Makeup Kit,5,1827.82,0.15,7768.24,2190.9,3.7,Credit Card
+ORD10991,2025-09-03,CUST1249,Customer_44,Male,41,East,Kolkata,Beauty,Shampoo,3,3578.84,0.1,9662.87,2938.27,3.3,UPI
+ORD10992,2025-05-15,CUST1083,Customer_230,Male,37,North,Chandigarh,Home & Kitchen,Cookware Set,5,3885.25,0.15,16512.31,4929.26,1.6,UPI
+ORD10993,2025-12-02,CUST1025,Customer_108,Female,48,West,Ahmedabad,Electronics,Laptop,5,4664.67,0.2,18658.68,7408.92,2.2,Cash on Delivery
+ORD10994,2025-06-30,CUST1057,Customer_217,Male,41,West,Ahmedabad,Home & Kitchen,Cookware Set,4,1222.81,0.15,4157.55,857.2,4.6,Cash on Delivery
+ORD10995,2025-10-20,CUST1032,Customer_260,Male,24,South,Chennai,Fashion,Jeans,1,4040.49,0.0,4040.49,1161.53,3.8,Credit Card
+ORD10996,2025-06-25,CUST1012,Customer_196,Male,43,West,Ahmedabad,Electronics,Smartphone,4,3758.09,0.05,14280.74,5864.76,4.9,Cash on Delivery
+ORD10997,2025-05-21,CUST1092,Customer_95,Male,30,East,Guwahati,Sports,Football,4,553.02,0.15,1880.27,413.95,4.1,Cash on Delivery
+ORD10998,2025-08-18,CUST1001,Customer_56,Male,25,South,Bengaluru,Electronics,Smartphone,5,2089.31,0.05,9924.22,1689.77,4.8,Debit Card
+ORD10999,2024-10-07,CUST1136,Customer_32,Female,22,North,Chandigarh,Sports,Cricket Bat,5,1593.14,0.0,7965.7,1320.78,1.9,Debit Card
+ORD11000,2025-02-27,CUST1196,Customer_231,Female,30,South,Mumbai,Fashion,Jacket,3,1696.33,0.15,4325.64,1467.67,4.1,Credit Card
+ORD10779,2024-12-19,CUST1223,Customer_222,Female,37,East,Kolkata,Beauty,Perfume,3,436.51,0.1,1178.58,516.64,2.3,Credit Card
+ORD10335,2024-08-18,CUST1187,Customer_31,Female,38,West,Ahmedabad,Electronics,Smartphone,4,3042.96,0.0,12171.84,4563.13,2.9,Debit Card
+ORD10272,2024-12-01,CUST1079,Customer_85,Female,26,West,,Beauty,Face Cream,3,1239.5,0.0,3718.5,950.98,,Credit Card
+ORD10803,2024-03-26,CUST1166,Customer_91,Male,23,South,Bengaluru,Home & Kitchen,Vacuum Cleaner,2,1865.02,0.1,3357.04,738.45,1.2,Credit Card
+ORD10217,2025-05-23,CUST1104,Customer_280,Male,48,North,Delhi,Fashion,Jeans,4,364.02,0.05,1383.28,242.59,4.5,UPI
+ORD10409,2024-08-19,CUST1089,Customer_157,Female,21,West,Jaipur,Sports,Football,3,2039.21,0.1,5505.87,1968.32,3.3,UPI
+ORD10813,2024-02-01,CUST1101,Customer_8,Male,54,South,Chennai,Electronics,Smartphone,2,3267.79,0.1,5882.02,2308.95,2.6,Cash on Delivery
+ORD10095,2024-06-15,CUST1064,Customer_61,Male,40,North,Delhi,Beauty,Perfume,5,1657.55,0.0,8287.75,1538.41,4.3,Cash on Delivery
+ORD10488,2025-06-05,CUST1269,Customer_40,Male,34,South,Bengaluru,Fashion,Jeans,3,2835.22,0.0,8505.66,2440.74,4.0,Credit Card
+ORD10171,2024-07-27,CUST1080,Customer_34,Male,54,West,Pune,Home & Kitchen,Bedsheet,4,2086.86,0.05,7930.07,2763.55,3.8,Debit Card
+ORD10025,2025-12-15,CUST1047,Customer_186,Male,24,East,Kolkata,Fashion,T-Shirt,5,3718.55,0.0,18592.75,4862.71,3.0,Debit Card
+ORD10243,2024-08-26,CUST1054,Customer_233,Female,38,East,Bhubaneswar,Sports,Yoga Mat,4,2146.83,0.25,6440.49,2835.45,1.5,Debit Card
